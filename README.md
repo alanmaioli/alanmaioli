@@ -1,7 +1,7 @@
 ![Quantum Wave Contribution Graph](https://raw.githubusercontent.com/alanmaioli/alanmaioli/output/github-wave.svg)
-# GitHub Quantum Wave Scattering
+# Quantum Wave Scattering
 
-### A journey through code, contributions, and quantum physics.
+### Code, Contributions, and Quantum Physics.
 
 This project explores the intersection of computational physics and software development by transforming GitHub contribution activity into a two-dimensional quantum scattering simulation.
 
@@ -11,13 +11,17 @@ Each day in the GitHub contribution calendar is mapped onto a spatial grid, wher
 
 The scattering problem is formulated using Green's functions and a multiple-scattering approach, drawing on the **Boundary Wall Method (BWM)**.
 
-The method provides a framework for investigating quantum scattering problems through boundary interactions and Green-function techniques. In this project, the contribution calendar defines a discrete distribution of scattering centers, whose interaction with an incident plane wave is obtained by solving a complex linear system.
+1) da Luz, M. G. E., Lupu-Sax, A. S., & Heller, E. J. (1997). Quantum scattering from arbitrary boundaries. Physical Review E, 56(3), 2496–2507. https://doi.org/10.1103/PhysRevE.56.2496
+
+2) Zanetti, F. M., Vicentini, E., & da Luz, M. G. E. (2008). Eigenstates and scattering solutions for billiard problems: A boundary wall approach. Annals of Physics, 323(7), 1644–1676. https://doi.org/10.1016/j.aop.2008.01.008
+
+3) Maioli, A. C., & Schmidt, A. G. M. (2018). Exact solution to Lippmann-Schwinger equation for a circular billiard. Journal of Mathematical Physics, 59(12), 122102. https://doi.org/10.1063/1.5056259
 
 The local scattering strength is defined as
 
-\[
-\gamma_j = \alpha C_j,
-\]
+```math
+\gamma_j = \alpha C_j
+```
 
 where \(C_j\) is the number of contributions on a given day and \(\alpha\) is a scaling parameter.
 
