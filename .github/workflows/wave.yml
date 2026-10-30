@@ -1,0 +1,42 @@
+name: Generate Quantum Wave Scattering
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza automaticamente todos os dias à meia-noite
+  workflow_dispatch:    # Permite rodar manualmente com um clique
+  push:
+    branches:
+      - main
+
+jobs:
+  build_and_generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Baixar matriz de commits via GraphQL API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
+               -H "Content-Type: application/json" \
+               -X POST -d '{"query": "query { user(login: \"alanmaioli\") { contributionsCollection { contributionCalendar { weeks { contributionDays { contributionCount weekday } } } } } }"}' \
+               https://api.github.com/graphql > commits.json
+
+      - name: Compilar e rodar o espalhamento quântico em C++
+        run: |
+          mkdir -p dist
+          g++ -O2 waveshow_win.cpp -o waveshow
+          ./waveshow
+          mv github-wave.svg dist/github-wave.svg
+
+      - name: Publicar SVG na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
