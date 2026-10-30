@@ -235,7 +235,7 @@ int main() {
 
     double ds = 1.0;
     double k = 1.4;
-    double angulo_inc = 0.08;
+    double angulo_inc = 0.0;
     double escala_gamma = 1.5;
 
     std::vector<PontoBarreira> barreira;
