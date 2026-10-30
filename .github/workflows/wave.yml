@@ -1,9 +1,10 @@
+
 name: Generate Quantum Wave Scattering
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza automaticamente todos os dias à meia-noite
-  workflow_dispatch:    # Permite rodar manualmente com um clique
+    - cron: "0 3 * * *" # Meia-noite no horário de Brasília (UTC-3)
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,19 +13,33 @@ jobs:
   build_and_generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: Baixar matriz de commits via GraphQL API
+      - name: Baixar contribuições públicas e privadas via GraphQL
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_CONTRIBUTIONS_TOKEN: ${{ secrets.GH_CONTRIBUTIONS_TOKEN }}
         run: |
-          curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
-               -H "Content-Type: application/json" \
-               -X POST -d '{"query": "query { user(login: \"alanmaioli\") { contributionsCollection { contributionCalendar { weeks { contributionDays { contributionCount weekday } } } } } }"}' \
-               https://api.github.com/graphql > commits.json
+          curl --fail-with-body --silent --show-error \
+            -H "Authorization: Bearer $GH_CONTRIBUTIONS_TOKEN" \
+            -H "Content-Type: application/json" \
+            -X POST \
+            -d '{"query":"query { user(login: \"alanmaioli\") { contributionsCollection { contributionCalendar { weeks { contributionDays { contributionCount weekday } } } } } }"}' \
+            https://api.github.com/graphql \
+            -o commits.json
+
+          python3 -c '
+          import json
+          with open("commits.json") as f:
+              data = json.load(f)
+          if data.get("errors") or not data.get("data", {}).get("user"):
+              raise SystemExit("Erro ao consultar contribuições: " + str(data.get("errors")))
+          print("Calendário de contribuições carregado.")
+          '
 
       - name: Compilar e rodar o espalhamento quântico em C++
         run: |
