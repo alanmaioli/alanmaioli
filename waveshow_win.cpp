@@ -136,20 +136,24 @@ Complex ondaIncidente(double x, double y, double k, double angulo_inc) {
     return std::exp(Complex(0.0, fase));
 }
 
-// Mapeia a amplitude instantânea Re(Psi * e^{-iwt}) em cores Hexadecimais (sem std::clamp)
+// Mapeia a cor: Commits ficam sempre verdes (estilo GitHub), espaço vazio oscila em azul
 std::string mapearCorOnda(double valor_onda, int commits) {
-    double val = (valor_onda + 1.4) / 2.8;
-    double norm = std::max(0.0, std::min(1.0, val));
-
     int r, g, b;
     if (commits > 0) {
-        r = static_cast<int>(15 + norm * 40);
-        g = static_cast<int>(80 + norm * 175);
-        b = static_cast<int>(100 + norm * 155);
+        // COR FIXA (ou com variação bem sutil) VERDE para os commits
+        // Quanto mais commits no dia, mais brilhante o verde fica
+        int intensidade = std::min(255, 60 + commits * 15);
+        r = 15;
+        g = intensidade;
+        b = 40;
     } else {
-        r = static_cast<int>(22 + norm * 25);
-        g = static_cast<int>(27 + norm * 105);
-        b = static_cast<int>(34 + norm * 200);
+        // Espaço livre (fundo): Oscila nos tons de azul conforme a onda passa
+        double val = (valor_onda + 1.4) / 2.8;
+        double norm = std::max(0.0, std::min(1.0, val));
+        
+        r = static_cast<int>(13 + norm * 20);
+        g = static_cast<int>(17 + norm * 80);
+        b = static_cast<int>(23 + norm * 180);
     }
 
     std::stringstream ss;
