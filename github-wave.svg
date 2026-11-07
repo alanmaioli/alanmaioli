@@ -1,0 +1,1116 @@
+<svg width="772" height="128" viewBox="0 0 772 128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117" rx="6"/>
+  <rect x="15" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea1;#1d53ab;#1e56b2;#1e57b4;#1e56b2;#1d52ab;#1c4ea0;#1a4792;#184082;#163870;#15315f;#13294e;#112340;#101e36;#0f1b2f;#0f1a2d;#0f1b2f;#101f36;#112341;#132a4f;#15315f;#173971;#184082;#1a4893;#1c4ea1" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="29" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d56;#153466;#173b76;#194286;#1b4995;#1c4ea1;#1d52aa;#1d54af;#1d54af;#1d53ac;#1c4fa4;#1b4a99;#19448b;#183d7b;#16366b;#142f5b;#12284c;#112340;#101f37;#101d32;#101d32;#101e35;#11223d;#122748;#142d56" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="43" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#101f36;#0f1c31;#0f1c30;#101d33;#11213b;#122646;#132c54;#153364;#173a75;#194286;#1b4995;#1c4ea1;#1d52ab;#1e55b0;#1e55b1;#1d54ae;#1c50a6;#1b4b9b;#1a458d;#183e7d;#16376c;#142f5b;#12284c;#112340;#101f36" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="57" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b76;#153365;#132c55;#122646;#11213b;#101d33;#0f1c30;#0f1c30;#101e36;#11223f;#12284b;#142f5b;#16366b;#183e7c;#1a458c;#1b4b9b;#1c50a6;#1d54ae;#1e55b1;#1e55b1;#1d53ab;#1c4fa2;#1b4996;#194286;#173b76" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="71" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1d54ae;#1d54af;#1d53ab;#1c4fa4;#1b4a99;#19448b;#183d7b;#16366b;#142f5b;#12284c;#112340;#101f38;#101d33;#101d32;#101e36;#11223d;#122748;#142d56;#153466;#173b76;#194286;#1b4995;#1c4ea1;#1d52a9;#1d54ae" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="85" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#194388;#1b4b9b;#1d52ab;#1e58b7;#1f5bbf;#1f5cc1;#1f5bbd;#1e57b5;#1d51a7;#1b4996;#194183;#16376e;#142e59;#122646;#101f36;#0f192a;#0e1622;#0e1520;#0e1624;#0f1a2c;#10203a;#12284b;#14305e;#173a73;#194388" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="99" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122648;#132a51;#14305c;#163569;#173b76;#194183;#1a468f;#1b4a98;#1c4d9f;#1c4fa3;#1c4fa3;#1c4ea0;#1b4b99;#1a4790;#194185;#173c78;#16366b;#14305e;#132b52;#122749;#112442;#11223e;#11223e;#112341;#122648" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="113" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132c53;#122545;#10203a;#101d32;#0f1b2f;#0f1c30;#101e36;#11233f;#12284c;#142f5c;#16376c;#183e7d;#1a458e;#1b4c9c;#1d51a7;#1d54af;#1e56b2;#1e55b1;#1d53ab;#1c4ea2;#1b4995;#194285;#173a75;#153364;#132c53" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="127" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4791;#194184;#173b75;#153467;#142e59;#12284c;#112442;#11213b;#101f38;#102039;#11223d;#122545;#132a50;#14305d;#16366c;#183d7a;#194388;#1b4995;#1c4d9f;#1c50a6;#1d52a9;#1d51a8;#1c4fa4;#1b4c9c;#1a4791" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="141" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4a97;#1c4ea1;#1d51a9;#1d53ac;#1d53ab;#1c50a6;#1c4d9e;#1a4892;#194185;#173b75;#153466;#142d57;#12274a;#112340;#102038;#101e35;#101e36;#11213b;#112443;#13294f;#14305c;#16366c;#183d7b;#19448a;#1b4a97" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="155" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5b;#16376c;#183e7d;#1a458d;#1b4c9c;#1d51a7;#1d54ae;#1e56b2;#1e55b1;#1d53ab;#1c4ea2;#1b4995;#194286;#173a75;#153364;#132c54;#122545;#10203a;#101d33;#0f1b2f;#0f1c30;#101e36;#11233f;#12284c;#142f5b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="169" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112443;#11223e;#11213c;#11223e;#122544;#12284c;#142d57;#153364;#173971;#183f7f;#19448b;#1b4996;#1c4d9e;#1c4fa3;#1c50a5;#1c4fa3;#1b4c9d;#1b4995;#19448a;#183e7d;#163870;#153262;#142d56;#12284b;#112443" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="183" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b77;#153364;#132b53;#112443;#101e36;#0f1b2d;#0f1929;#0f192a;#0f1c2f;#102039;#122647;#142d58;#16366a;#183e7d;#1a468e;#1c4d9e;#1d53ab;#1e56b4;#1e58b8;#1e58b7;#1e55b2;#1d51a8;#1b4b9a;#194489;#173b77" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="197" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea0;#1c4d9f;#1b4b9a;#1a4893;#19448a;#183f7e;#173972;#153466;#142f5a;#132a50;#122748;#112443;#112341;#112442;#122647;#13294e;#142d57;#153263;#16386f;#183d7b;#194287;#1a4791;#1b4a99;#1c4d9e;#1c4ea0" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="211" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173c79;#1a458c;#1b4c9d;#1d52aa;#1e56b4;#1f59b9;#1f59b9;#1e57b5;#1d53ab;#1c4d9e;#1a458d;#183d7b;#163568;#132c55;#122544;#101f37;#0f1b2d;#0e1828;#0e1828;#0f1a2c;#101e36;#112443;#132c54;#153466;#173c79" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="225" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122544;#12284b;#142d56;#153261;#16386e;#183d7b;#194388;#1a4892;#1b4b9b;#1c4ea0;#1c4fa3;#1c4ea2;#1b4c9d;#1b4996;#19448b;#183f80;#173973;#153466;#142e59;#13294f;#122646;#112341;#11223e;#11233f;#122544" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="239" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142e59;#122749;#11213c;#101d32;#0f1a2c;#0f1a2b;#0f1b2f;#101f37;#112443;#132b53;#153364;#173b76;#194388;#1b4a98;#1c50a5;#1d54af;#1e57b5;#1e57b6;#1e56b2;#1d52aa;#1c4d9e;#1a468e;#183e7d;#16366b;#142e59" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="253" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4995;#194388;#173c79;#16366a;#142f5b;#13294e;#112442;#11213b;#101f36;#101e36;#10203a;#112341;#12284c;#142e59;#163568;#173b77;#194286;#1a4893;#1c4d9f;#1c50a6;#1d52ab;#1d53ab;#1d51a7;#1c4ea0;#1b4995" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="267" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#1c4d9f;#1d51a8;#1d53ad;#1d54ae;#1d52aa;#1c4fa3;#1b4a98;#19448b;#183d7b;#16366b;#142f5c;#13294d;#112442;#102039;#101e34;#101d33;#101f37;#11223e;#122749;#142d56;#153466;#173b76;#194285;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="281" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d57;#163569;#183d7b;#1a458c;#1b4b9b;#1d51a8;#1e55b0;#1e57b5;#1e57b4;#1d54af;#1c50a6;#1b4b99;#19448a;#173c78;#153466;#132c55;#122646;#102039;#0f1c31;#0f1a2c;#0f1a2d;#101d32;#11213b;#122648;#142d57" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="295" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122546;#112340;#11223d;#11223e;#112442;#12274a;#132c54;#153160;#16376d;#183d7b;#194387;#1a4893;#1b4c9b;#1c4ea1;#1c4fa4;#1c4fa3;#1c4d9f;#1b4a97;#1a458d;#184081;#173a74;#153466;#142e5a;#13294e;#122546" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="309" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183d7c;#163568;#132c55;#122544;#101e36;#0f1a2b;#0e1726;#0e1726;#0f192a;#101e34;#112442;#132b52;#153465;#173c79;#1a458c;#1b4c9d;#1d53ab;#1e57b6;#1f5abb;#1f5abb;#1e58b7;#1d53ad;#1c4d9f;#1a468f;#183d7c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="323" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4d9f;#1c4d9e;#1b4b9a;#1a4893;#19448a;#183f7f;#173a73;#153467;#142f5c;#132b52;#12274a;#122545;#112442;#112443;#122647;#13294e;#142d57;#153262;#16376e;#183d7a;#194285;#1a468f;#1b4a97;#1b4c9c;#1c4d9f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="337" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173a74;#194388;#1b4b9a;#1d52a9;#1e57b4;#1f5abb;#1f5abd;#1f59b9;#1e55b1;#1c4fa4;#1a4893;#184081;#16376d;#142e59;#122647;#101f38;#0f1a2d;#0e1726;#0e1724;#0e1828;#0f1c30;#11223d;#13294e;#153160;#173a74" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="351" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122544;#12284b;#142d56;#153262;#16386f;#183e7c;#194388;#1a4893;#1b4c9b;#1c4ea1;#1c4fa3;#1c4ea2;#1b4c9d;#1b4996;#19448b;#183f7f;#173972;#153365;#142e59;#13294e;#122546;#112340;#11223e;#11233f;#122544" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="365" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#15315f;#13294e;#11223f;#101d34;#0f1a2c;#0f192a;#0f1a2c;#101d33;#11223e;#13294d;#14305e;#163870;#184082;#1a4893;#1c4fa2;#1d54ad;#1e57b5;#1e58b7;#1e57b5;#1d54ae;#1c4fa3;#1a4894;#194183;#173971;#15315f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="379" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4a97;#19448a;#183d7a;#16366a;#142f5a;#12284c;#112340;#101f38;#101d33;#101d33;#101f37;#11223e;#12274a;#142d57;#153467;#173b77;#194287;#1b4995;#1c4ea1;#1d52a9;#1d54ae;#1d54ae;#1d52aa;#1c4fa3;#1b4a97" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="393" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a468e;#1b4b9b;#1c4fa4;#1d52aa;#1d53ac;#1d52aa;#1c50a4;#1b4b9b;#1a468f;#183f80;#173971;#153261;#132b53;#122646;#11223d;#101f37;#101e35;#101f37;#11213d;#122646;#132b52;#153261;#163870;#183f80;#1a468e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="407" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132b53;#153365;#173c78;#19448b;#1b4c9c;#1d52aa;#1e56b4;#1f59b9;#1f59ba;#1e57b5;#1d53ac;#1c4d9f;#1a468e;#183e7c;#163569;#142d56;#122545;#101f37;#0f1b2d;#0e1828;#0e1827;#0f1a2c;#101e35;#112442;#132b53" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="421" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#12274a;#122544;#112341;#112441;#122545;#12284b;#132c55;#153160;#16366c;#173c78;#194184;#1a468f;#1b4a97;#1b4c9d;#1c4ea0;#1c4da0;#1b4c9c;#1b4996;#1a458c;#184081;#173b75;#163569;#14305d;#132b52;#12274a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="435" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#194183;#16376e;#142e5a;#122647;#101f37;#0f192a;#0e1623;#0e1521;#0e1724;#0f1a2d;#10203a;#12284b;#14305e;#173a73;#194387;#1b4b9a;#1d52aa;#1e58b7;#1f5bbe;#1f5cc0;#1f5abd;#1e57b4;#1d51a7;#1b4996;#194183" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="449" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4c9d;#1b4c9c;#1b4a97;#1a4690;#194287;#183e7c;#163870;#153365;#142e5a;#132a51;#12274a;#122545;#122544;#122545;#12274a;#132b51;#142f5a;#153365;#173971;#183e7c;#194387;#1a4790;#1b4a97;#1b4c9c;#1b4c9d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="463" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#16366b;#183f7f;#1a4892;#1c4fa3;#1e55b1;#1f59ba;#1f5bbe;#1f5abc;#1e57b6;#1d52ab;#1b4c9c;#19448a;#173b76;#153262;#13294f;#11223e;#0f1c30;#0e1827;#0e1623;#0e1725;#0f1a2b;#101f36;#122545;#142d57;#16366b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="477" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112341;#12274a;#142d56;#153363;#173972;#183f80;#1a458d;#1b4a99;#1c4ea1;#1c50a6;#1d51a8;#1c50a6;#1c4ea0;#1b4a97;#19448b;#183e7e;#16386f;#153261;#132c54;#122748;#112340;#11213b;#102039;#11213b;#112341" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="491" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#163568;#142d57;#122748;#11213c;#101d33;#0f1b2f;#0f1b2f;#101d33;#11213c;#122748;#142d57;#163568;#173c79;#19448a;#1b4a99;#1c50a5;#1d54ae;#1e56b2;#1e56b2;#1d54ae;#1c50a5;#1b4a99;#19448a;#173c79;#163568" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="505" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea0;#1a4791;#183f7f;#16376d;#142f5b;#12284a;#11213c;#101d32;#0f1a2b;#0f192a;#0f1b2d;#101e35;#112341;#132a50;#153262;#173a74;#194286;#1b4997;#1c50a5;#1d54af;#1e57b6;#1e58b7;#1e56b4;#1d53ac;#1c4ea0" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="519" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#194489;#1a4894;#1b4c9c;#1c4ea2;#1c4fa4;#1c4ea2;#1b4c9d;#1b4995;#19448b;#183f7f;#173971;#153364;#142d58;#13294d;#122545;#11233f;#11223d;#11233f;#122544;#12284c;#142d56;#153262;#163870;#183e7d;#194489" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="533" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122646;#142e59;#16376d;#184081;#1a4894;#1c50a5;#1e56b2;#1f5abb;#1f5bbf;#1f5bbd;#1e57b6;#1d52ab;#1b4b9b;#194388;#173a74;#153160;#13294d;#11213c;#0f1b2f;#0e1726;#0e1622;#0e1624;#0f1a2b;#101f36;#122646" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="547" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122646;#112442;#112442;#122544;#12274a;#132b52;#14305d;#163568;#173a75;#184081;#19448b;#1b4995;#1b4b9b;#1c4d9f;#1c4d9f;#1b4c9d;#1b4a97;#1a468f;#194184;#173c79;#16376c;#153160;#142d56;#12284c;#122646" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="561" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a458c;#183d7a;#153466;#132c54;#112443;#101e36;#0f1a2c;#0e1827;#0e1828;#0f1a2d;#101f36;#122544;#132c55;#153467;#183d7b;#1a458d;#1c4d9e;#1d53ab;#1e57b5;#1f59ba;#1f59b9;#1e57b4;#1d52ab;#1b4c9d;#1a458c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="575" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1d51a8;#1c50a6;#1c4ea1;#1b4a98;#1a458d;#183f80;#173971;#153263;#142d56;#12274a;#112341;#11213b;#102039;#11213b;#112340;#122749;#132c54;#153261;#163870;#183f7e;#19448b;#1b4a97;#1c4ea0;#1c50a6;#1d51a8" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="589" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#16376d;#183f80;#1a4791;#1c4ea0;#1d53ac;#1e56b4;#1e58b7;#1e57b6;#1d54af;#1c50a5;#1b4997;#194286;#173a74;#153261;#132a50;#112341;#101e35;#0f1b2d;#0f192a;#0f1a2b;#101d32;#11213c;#12284a;#142f5b;#16376d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="603" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112341;#122748;#132b53;#15315f;#16376c;#183d7a;#194287;#1a4892;#1b4c9c;#1c4ea2;#1c50a5;#1c4fa4;#1c4ea0;#1b4a99;#1a468e;#184082;#173a75;#153467;#142f5a;#13294f;#122545;#11233f;#11213c;#11223d;#112341" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="617" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#163870;#14305d;#12284c;#11223e;#101d33;#0f1a2c;#0f192a;#0f1a2d;#101e34;#11233f;#13294e;#15315f;#173971;#194184;#1b4995;#1c4fa3;#1d54ae;#1e57b5;#1e58b7;#1e57b4;#1d53ad;#1c4ea2;#1a4893;#184082;#163870" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="631" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1d52aa;#1b4a98;#194183;#16376c;#142d56;#112442;#0f1c31;#0e1724;#0d131d;#0d121b;#0d141f;#0e1828;#101f37;#122749;#14305e;#173a75;#19448b;#1c4d9f;#1e55b0;#1f5abd;#205ec4;#205fc6;#205dc2;#1f59b9;#1d52aa" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="645" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#194388;#1a468e;#1a4792;#1a4893;#1a4892;#1a468f;#19448a;#194183;#183d7b;#173972;#163569;#153160;#142e59;#132b53;#132a4f;#13294e;#13294f;#132b52;#142d57;#14305e;#153466;#16386f;#173c78;#184081;#194388" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="659" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#10203a;#122749;#142f5c;#163870;#194184;#1b4a97;#1d51a7;#1e56b3;#1f5abb;#1f5bbe;#1f5abb;#1e56b4;#1d51a7;#1b4a98;#194285;#173971;#14305d;#12274a;#10203a;#0f1b2e;#0e1726;#0e1623;#0e1726;#0f1b2d;#10203a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="673" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112443;#112443;#122546;#12284b;#132c53;#14305d;#163569;#173a75;#184080;#19448b;#1a4894;#1b4b9a;#1c4d9e;#1c4d9e;#1b4c9b;#1b4996;#1a458e;#194184;#173c78;#16376c;#153161;#142d56;#13294d;#122647;#112443" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="687" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c50a6;#1b4b9b;#1a458c;#183d7b;#16366a;#142e59;#12274a;#11223d;#101e34;#0f1b2f;#0f1b2f;#101d32;#11213b;#122646;#132c55;#153466;#173b77;#194388;#1b4a97;#1c4fa4;#1d53ad;#1e56b2;#1e56b2;#1d54af;#1c50a6" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="701" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#2161cb;#2161cb;#2161cb;#205fc6;#1e57b5;#1c4d9e;#194185;#16356a;#132a4f;#101f37;#0e1623;#0d1117;#0d1117;#0d1117;#0d1117;#0d121b;#0f1a2c;#112443;#14305c;#173c77;#1a4792;#1d52aa;#1f5bbe;#2161cb;#2161cb" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="715" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a468f;#1c4da0;#1d53ad;#1e57b6;#1f59bb;#1f59ba;#1e57b4;#1d52aa;#1b4c9c;#19448b;#173c78;#153365;#132b52;#112441;#101e34;#0f1a2b;#0e1826;#0e1827;#0f1a2d;#101f37;#122545;#142d56;#163569;#183e7c;#1a468f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="729" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11213d;#122544;#132a4f;#142f5c;#16366a;#173c79;#194388;#1a4894;#1c4d9e;#1c50a5;#1d52a9;#1d51a9;#1c50a4;#1b4c9d;#1a4792;#194285;#173b77;#163568;#142e59;#13294d;#112443;#11213c;#101f38;#102038;#11213d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="743" y="15" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132b53;#122748;#112340;#11213b;#10203a;#11223d;#112443;#12284c;#142d58;#153365;#173a73;#184081;#1a468e;#1b4a99;#1c4ea1;#1c50a6;#1d51a7;#1c4fa4;#1c4d9e;#1b4995;#194489;#183e7c;#16376e;#153160;#132b53" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="15" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea1;#1d53ac;#1e56b3;#1e57b5;#1e56b2;#1d53ab;#1c4ea0;#1a4792;#184081;#163870;#14305e;#13294e;#112340;#101e35;#0f1b2e;#0f1a2c;#0f1b2f;#101e36;#112341;#132a4f;#153160;#173971;#194183;#1a4893;#1c4ea1" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="29" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d56;#153365;#173b75;#194285;#1a4894;#1c4ea0;#1d52a9;#1d54ae;#1d54af;#1d53ab;#1c4fa4;#1b4a99;#19448b;#183e7c;#16366c;#142f5c;#13294d;#112341;#101f38;#101d33;#101d32;#101e36;#11223d;#122748;#142d56" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="43" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#101e35;#0f1c30;#0f1b2f;#101d33;#11213b;#122646;#132c55;#153365;#173b76;#194287;#1b4996;#1c4fa3;#1d53ac;#1e55b1;#1e56b2;#1d54ae;#1c50a6;#1b4b9b;#1a458c;#183e7c;#16366b;#142f5a;#12284b;#11223e;#101e35" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="57" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173c78;#153467;#142d57;#122749;#11223d;#101e35;#0f1c31;#101d32;#101f36;#11223f;#12284b;#142e59;#163569;#183d7a;#19448a;#1b4a98;#1c4fa4;#1d53ac;#1e55b0;#1d54af;#1d52ab;#1c4fa2;#1b4996;#194388;#173c78" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="71" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1e56b4;#1e56b3;#1d54ae;#1c4fa4;#1b4a97;#194388;#173b77;#153365;#132c54;#122545;#10203a;#0f1c31;#0f1b2d;#0f1b2e;#101d33;#11223d;#12274a;#142e59;#16366a;#183e7c;#1a458d;#1b4c9c;#1d51a7;#1e55b0;#1e56b4" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="85" y="29" width="11" height="11" rx="2" fill="#161b22" stroke="#58a6ff" stroke-width="0.6" stroke-opacity="0.5">
+    <animate attributeName="fill" values="#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="99" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#13294d;#132c54;#14305d;#153467;#173972;#183e7d;#194387;#1a4690;#1b4996;#1b4b9a;#1b4b9b;#1b4b99;#1a4894;#1a458d;#194184;#183d7a;#16386f;#153364;#142e5a;#132b51;#12284b;#122647;#122646;#122648;#13294d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="113" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132c55;#122647;#11213b;#101d34;#0f1c30;#0f1c31;#101f36;#11233f;#12284c;#142f5b;#16366b;#183e7c;#1a458c;#1b4b9a;#1c50a6;#1d54ad;#1e55b1;#1e55b0;#1d52ab;#1c4ea2;#1b4995;#194286;#173b76;#153365;#132c55" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="127" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4790;#194184;#173b77;#163569;#142f5b;#132a4f;#122545;#11223f;#11213b;#11213c;#11233f;#122647;#132a51;#14305d;#16366a;#173c78;#194286;#1a4792;#1b4c9c;#1c4fa2;#1c50a6;#1c50a5;#1c4ea2;#1b4b9a;#1a4790" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="141" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4a97;#1c4fa2;#1d52a9;#1d53ad;#1d53ac;#1d51a8;#1c4d9f;#1a4893;#194285;#173b76;#153466;#142d57;#12274a;#11223f;#101f38;#101e34;#101e35;#102039;#112442;#13294e;#142f5c;#16366b;#183d7b;#19448a;#1b4a97" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="155" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305c;#16376d;#183e7d;#1a458d;#1b4b9a;#1c50a5;#1d53ac;#1d54af;#1d54ae;#1d52a9;#1c4ea0;#1a4893;#194185;#173a74;#153364;#132c54;#122647;#11213c;#101e35;#101d32;#101d33;#101f38;#112341;#13294e;#14305c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="169" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112443;#11223d;#11213b;#11213d;#112442;#12274a;#132c55;#153262;#163870;#183e7e;#19448b;#1b4996;#1c4d9e;#1c4fa4;#1c50a6;#1c50a4;#1c4d9f;#1b4a97;#1a458c;#183f7f;#173971;#153363;#142d56;#12284b;#112443" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="183" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b76;#153363;#132b52;#112443;#101f36;#0f1b2e;#0f192a;#0f1a2b;#0f1c31;#11213b;#122749;#142e59;#16366b;#183e7e;#1a468f;#1c4d9e;#1d52ab;#1e56b3;#1e58b7;#1e57b6;#1e55b0;#1c50a6;#1b4a98;#194388;#173b76" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="197" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea0;#1c4da0;#1b4c9c;#1b4995;#1a458c;#184081;#173a75;#163568;#142f5c;#132b52;#122749;#112443;#112341;#112441;#122545;#12284c;#132c55;#153160;#16376c;#173c79;#194285;#1a468f;#1b4a98;#1c4d9e;#1c4ea0" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="211" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183d7b;#1a458e;#1c4d9e;#1d53ab;#1e57b5;#1f59b9;#1f59b9;#1e56b4;#1d52aa;#1b4c9c;#19448b;#173c79;#153466;#132c53;#112443;#101e36;#0f1a2c;#0e1828;#0e1828;#0f1b2d;#101f37;#122545;#142d56;#163568;#183d7b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="225" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122544;#12284b;#132c54;#153160;#16376c;#173c79;#194285;#1a4690;#1b4a98;#1c4d9e;#1c4ea1;#1c4ea1;#1b4c9d;#1b4996;#1a458d;#184081;#173a75;#163568;#142f5c;#132b51;#122749;#112443;#112340;#112340;#122544" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="239" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d57;#122647;#102039;#0f1c30;#0f192a;#0f192a;#0f1b2e;#101f37;#122544;#132c54;#153465;#173c78;#19448a;#1b4b9a;#1d51a8;#1e55b1;#1e58b7;#1e58b7;#1e56b3;#1d52aa;#1b4c9d;#1a458d;#183d7c;#163569;#142d57" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="253" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#194388;#183d7a;#16366b;#14305d;#132a50;#122545;#11223d;#102039;#102039;#11213c;#112443;#13294d;#142e59;#153467;#173b76;#194184;#1a4791;#1b4c9c;#1c4fa4;#1d51a8;#1d51a8;#1c50a5;#1c4d9e;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="267" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4995;#1c4ea2;#1d52ab;#1e55b0;#1e55b0;#1d53ac;#1c50a5;#1b4b99;#19448b;#183d7b;#16366b;#142f5a;#12284c;#11233f;#101f36;#0f1c31;#0f1c31;#101e35;#11213c;#122648;#142d56;#153466;#173b76;#194287;#1b4995" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="281" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142e59;#16366a;#183d7b;#1a458c;#1b4b9b;#1c50a6;#1d54ae;#1e56b2;#1e55b2;#1d53ad;#1c4fa3;#1b4a97;#194388;#173b77;#153466;#132c55;#122646;#11213b;#101d33;#0f1b2f;#0f1c2f;#101e34;#11223e;#12274a;#142e59" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="295" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122544;#11223e;#10203a;#11213b;#11233f;#122647;#132b51;#14305e;#16366b;#183d7a;#194387;#1a4893;#1b4c9d;#1c4fa3;#1d51a7;#1c50a6;#1c4ea2;#1b4b9a;#1a4690;#194183;#173b76;#153467;#142e5a;#13294e;#122544" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="309" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173c79;#153466;#132b53;#112442;#101e35;#0f1a2c;#0e1827;#0e1827;#0f1a2d;#101f37;#122545;#142d56;#163568;#183d7b;#1a468e;#1c4d9f;#1d53ac;#1e57b5;#1f59ba;#1f59ba;#1e57b4;#1d52aa;#1b4c9c;#19448b;#173c79" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="323" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4d9f;#1c4d9f;#1b4c9c;#1b4996;#1a458d;#194183;#173b77;#16366b;#15315f;#132c54;#12284b;#122545;#112442;#112442;#122545;#12284b;#132c54;#14305e;#16366a;#173b76;#184082;#1a458d;#1b4996;#1b4c9c;#1c4d9f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="337" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173c78;#19448b;#1b4c9d;#1d53ac;#1e57b6;#1f5abc;#1f5abd;#1e58b8;#1d54af;#1c4ea2;#1a4791;#183e7d;#163569;#142d56;#122544;#101e35;#0f1a2b;#0e1725;#0e1724;#0f1929;#101d32;#11233f;#132a50;#153364;#173c78" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="351" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122545;#12284b;#132c55;#153160;#16366c;#173c79;#194185;#1a468f;#1b4a98;#1c4d9e;#1c4ea0;#1c4ea0;#1b4c9c;#1b4996;#1a458c;#184081;#173b75;#163568;#14305c;#132b52;#122749;#112443;#112341;#112341;#122545" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="365" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5b;#12274a;#11213b;#0f1c30;#0f1929;#0e1827;#0f192a;#101d32;#11223e;#13294e;#153160;#173973;#194286;#1b4a97;#1c50a6;#1e55b1;#1e58b8;#1f59ba;#1e58b7;#1d54af;#1c4fa3;#1a4893;#184081;#16386e;#142f5b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="379" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4995;#194388;#173c79;#16366a;#142f5c;#13294f;#122544;#11213c;#101f38;#101f37;#11213b;#112442;#12284c;#142e59;#163568;#173b77;#194285;#1a4892;#1b4c9d;#1c50a5;#1d52a9;#1d52aa;#1c50a6;#1c4d9f;#1b4995" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="393" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4791;#1c4d9e;#1d51a8;#1d54af;#1e55b1;#1d54ae;#1d51a8;#1c4d9e;#1a4790;#184081;#163870;#153160;#132a50;#112443;#102039;#101d32;#0f1c30;#101d33;#102039;#112443;#132a51;#153160;#173971;#184081;#1a4791" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="407" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d57;#163569;#183d7b;#1a458c;#1b4c9c;#1d51a9;#1e55b1;#1e57b6;#1e57b5;#1e55b0;#1d51a7;#1b4b9a;#19448a;#173c78;#153466;#132c55;#122545;#102038;#0f1c30;#0f1a2b;#0f1a2c;#0f1c31;#10203a;#122647;#142d57" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="421" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122749;#112441;#11223d;#11223d;#112340;#122646;#132a4f;#142f5b;#163568;#173b75;#184082;#1a468e;#1b4a98;#1c4da0;#1c4fa4;#1c4fa4;#1c4ea1;#1b4b9b;#1a4792;#194286;#173c79;#16366c;#15315f;#132b53;#122749" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="435" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7d;#163569;#132c55;#112443;#101d34;#0f1929;#0e1623;#0e1622;#0e1827;#0f1c31;#11223f;#132a50;#153364;#173c78;#1a458c;#1c4d9e;#1d54ad;#1e58b8;#1f5bbe;#1f5bbf;#1f59ba;#1e55b0;#1c4fa2;#1a4791;#183e7d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="449" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4c9c;#1b4c9c;#1b4a99;#1a4893;#19448b;#184081;#173b76;#16366b;#153160;#142d56;#13294e;#122748;#122545;#122545;#122748;#13294e;#142d56;#153160;#16366b;#173b76;#184081;#19448b;#1a4893;#1b4a99;#1b4c9c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="463" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173971;#194286;#1b4b99;#1d52aa;#1e58b6;#1f5bbe;#1f5cc1;#1f5bbe;#1e57b6;#1d52a9;#1b4a98;#194285;#163870;#142f5b;#122648;#101f37;#0f192b;#0e1623;#0e1520;#0e1623;#0f1a2b;#101f38;#122749;#142f5c;#173971" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="477" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122646;#13294d;#142d57;#153263;#163870;#183e7c;#194388;#1a4792;#1b4b9a;#1c4d9f;#1c4ea1;#1c4da0;#1b4b9b;#1a4894;#19448a;#183f7e;#173971;#153365;#142e59;#132a4f;#122647;#112442;#112340;#112441;#122646" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="491" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#153364;#132b52;#112441;#101e34;#0f1a2c;#0e1827;#0e1828;#0f1b2e;#101f38;#122646;#142d57;#16366a;#183e7d;#1a468f;#1c4da0;#1d53ad;#1e57b5;#1f59ba;#1f59b9;#1e56b3;#1d52a9;#1b4b9b;#19448a;#173b77;#153364" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="505" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4a98;#19448a;#173c79;#163569;#142e59;#12274a;#11223e;#101e36;#0f1c31;#0f1c31;#101e35;#11223d;#122749;#142d57;#163568;#173c78;#194388;#1b4a97;#1c4fa3;#1d53ab;#1e55b0;#1e55b0;#1d53ac;#1c4fa4;#1b4a98" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="519" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#194388;#1b4995;#1c4ea0;#1d51a7;#1d52ab;#1d52aa;#1c50a6;#1c4d9e;#1a4893;#194285;#173b76;#153467;#142e59;#12284c;#112341;#10203a;#101f36;#101f37;#11213b;#112443;#13294e;#142f5c;#16366b;#183d7a;#194388" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="533" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#13294e;#153261;#173b76;#194489;#1b4c9c;#1d53ab;#1e58b6;#1f5abd;#1f5bbe;#1f59ba;#1e55b1;#1c4fa4;#1a4893;#183f80;#16366b;#142d58;#122545;#101e36;#0f192b;#0e1724;#0e1623;#0e1827;#0f1c30;#11223d;#13294e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="547" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#13294d;#122647;#122545;#122545;#122748;#13294e;#142d57;#153261;#16376c;#173c78;#194183;#1a458d;#1a4894;#1b4b9a;#1b4c9c;#1b4c9c;#1b4a99;#1a4893;#19448a;#183f80;#173a75;#163569;#14305e;#132c54;#13294d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="561" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#19448a;#173b76;#153261;#13294d;#11213c;#0f1b2e;#0e1725;#0e1520;#0e1622;#0e1828;#101e34;#122544;#142d57;#16366b;#183f80;#1a4894;#1c50a5;#1e56b3;#1f5abc;#1f5cc1;#1f5bbf;#1f59b9;#1d53ad;#1b4c9d;#19448a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="575" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4fa2;#1c4ea0;#1b4b9b;#1a4893;#194388;#183e7c;#16386f;#153262;#142d56;#12284c;#122545;#112340;#11223f;#112341;#122646;#13294e;#142e59;#153365;#173972;#183f7f;#19448b;#1b4995;#1b4c9c;#1c4ea1;#1c4fa2" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="589" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#16366b;#183e7d;#1a468f;#1c4d9e;#1d52aa;#1e56b3;#1e58b7;#1e57b6;#1e55b0;#1c50a6;#1b4a98;#194388;#173b76;#153364;#132b52;#112443;#101f37;#0f1b2e;#0f192a;#0f1a2b;#0f1c31;#11213b;#122749;#142e59;#16366b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="603" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11223d;#112443;#12284c;#142e58;#153365;#173a73;#184081;#1a468e;#1b4a99;#1c4ea1;#1c50a6;#1d51a7;#1c4fa4;#1c4d9e;#1b4995;#194389;#183e7c;#16376e;#153160;#132b53;#122748;#112340;#11213b;#10203a;#11223d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="617" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#153160;#12284c;#11213c;#0f1b2f;#0e1826;#0e1623;#0e1725;#0f1a2c;#101f37;#122647;#142e59;#16376d;#184081;#1b4995;#1c50a5;#1e56b2;#1f59bb;#1f5bbe;#1f5abc;#1e57b5;#1d52aa;#1b4b9a;#194388;#173a74;#153160" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="631" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4792;#184082;#173972;#153261;#132b51;#122544;#102039;#101d33;#0f1c30;#101d32;#101f38;#112442;#132a4f;#15315f;#16386f;#183f80;#1a4690;#1b4c9d;#1d51a8;#1d54ae;#1e55b1;#1d54af;#1d52a9;#1c4d9f;#1a4792" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="645" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173c79;#194184;#1a468f;#1b4a97;#1b4c9d;#1c4ea0;#1c4da0;#1b4c9c;#1b4995;#1a458c;#184081;#173a75;#163568;#14305d;#132b52;#12274a;#122544;#112341;#112441;#122545;#12284c;#132c55;#153160;#16376c;#173c79" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="659" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11223e;#132b51;#153467;#183e7c;#1a4791;#1c4fa4;#1e56b3;#1f5bbe;#205dc4;#205dc3;#1f5bbd;#1e56b2;#1c4fa3;#1a4690;#183d7a;#153365;#132a50;#11223d;#0f1b2e;#0e1623;#0d141d;#0d141e;#0e1624;#0f1b2f;#11223e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="673" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a51;#12284b;#122748;#122648;#12284a;#132a4f;#142d57;#153160;#16366a;#173a75;#183f7f;#194388;#1a4790;#1b4996;#1b4a99;#1b4b99;#1b4997;#1a4792;#19448a;#184081;#173b77;#16376c;#153262;#142e59;#132a51" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="687" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c50a6;#1a468f;#173b75;#142f5c;#122544;#0f1b2f;#0d141e;#0d1117;#0d1117;#0d1117;#0d1219;#0e1828;#11213b;#132b52;#16366c;#194285;#1b4c9d;#1e56b2;#205dc3;#2161cb;#2161cb;#2161cb;#205fc8;#1f59b9;#1c50a6" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="701" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#205ec4;#1f59ba;#1d53ac;#1b4a99;#194183;#16376c;#142d56;#112341;#0f1b2f;#0e1622;#0d121a;#0d1119;#0d131d;#0e1827;#101e35;#122748;#14305e;#173a75;#19448b;#1c4ea0;#1e56b2;#1f5bbf;#205fc7;#2060c8;#205ec4" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="715" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#194285;#19448b;#1a4690;#1a4792;#1a4792;#1a4690;#19448b;#194285;#183e7d;#173a75;#16366c;#153363;#142f5c;#142d56;#132b51;#132a4f;#132a4f;#132b51;#142d56;#142f5c;#153364;#16376c;#173b75;#183e7e;#194285" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="729" y="29" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11223e;#112341;#122647;#132a50;#142f5b;#153467;#173a74;#184081;#1a458d;#1b4a97;#1c4d9e;#1c4fa2;#1c4fa3;#1c4ea0;#1b4b9a;#1a4791;#194286;#183d7a;#16376d;#153160;#132c54;#12274a;#112443;#11223f;#11223e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="743" y="29" width="11" height="11" rx="2" fill="#161b22" stroke="#58a6ff" stroke-width="0.6" stroke-opacity="0.5">
+    <animate attributeName="fill" values="#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="15" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4fa3;#1d54ad;#1e57b4;#1e58b6;#1e56b4;#1d53ac;#1c4ea1;#1a4892;#184082;#16386f;#14305d;#13294d;#11223e;#101d34;#0f1a2d;#0f192b;#0f1b2d;#101e35;#112340;#13294f;#15315f;#173972;#194184;#1a4894;#1c4fa3" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="29" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d57;#153467;#173b76;#194286;#1a4894;#1c4d9f;#1d51a8;#1d53ac;#1d53ad;#1d52a9;#1c4ea2;#1b4a97;#19448a;#183d7a;#16366b;#142f5b;#13294d;#112442;#102039;#101e35;#101e34;#101f38;#11233f;#12274a;#142d57" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="43" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#101e34;#0f1b2f;#0f1b2d;#0f1c31;#101f38;#122544;#132b52;#153263;#173a74;#194286;#1b4995;#1c4fa3;#1d53ad;#1e56b2;#1e56b4;#1e55b0;#1d52a9;#1b4c9d;#1a468f;#183f7e;#16376d;#142f5b;#12284c;#11223e;#101e34" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="57" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173a74;#153363;#132c53;#122646;#11213b;#101e34;#0f1c31;#101d32;#101f38;#112441;#13294e;#14305d;#16376d;#183e7e;#1a458e;#1b4b9b;#1c50a6;#1d53ad;#1e55b0;#1d54af;#1d52a9;#1c4da0;#1a4893;#194184;#173a74" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="71" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1d54af;#1e55b0;#1d54ad;#1c50a6;#1b4b9b;#1a458d;#183e7e;#16376d;#14305c;#13294d;#112341;#101f37;#101d32;#0f1c31;#101d34;#11213b;#122646;#132c54;#153363;#173a74;#194185;#1a4894;#1c4ea0;#1d52aa;#1d54af" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="85" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#19448a;#1b4c9d;#1d53ad;#1f59b9;#1f5cbf;#1f5cc1;#1f5abd;#1e56b3;#1c50a5;#1a4894;#183f80;#16366b;#142d57;#122544;#101e34;#0e1828;#0e1522;#0e1520;#0e1724;#0f1b2e;#11213c;#13294d;#153261;#173b76;#19448a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="99" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122647;#132a50;#142f5b;#153467;#173a74;#184080;#1a458c;#1b4996;#1b4c9d;#1c4ea1;#1c4ea2;#1c4d9f;#1b4b9a;#1a4791;#194286;#183d7a;#16376d;#153161;#132c55;#12284b;#122544;#112340;#11233f;#112442;#122647" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="113" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a50;#112442;#101f37;#0f1c30;#0f1b2d;#0f1b2f;#101e35;#112340;#13294d;#14305d;#16386f;#183f80;#1a4791;#1c4d9f;#1d52aa;#1e55b1;#1e56b4;#1e56b2;#1d53ac;#1c4ea1;#1a4894;#194184;#173972;#153261;#132a50" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="127" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4790;#194184;#173b76;#163568;#142f5b;#13294f;#122545;#11223e;#11213b;#11213b;#11233f;#122647;#132a51;#14305d;#16366b;#173c79;#194286;#1a4892;#1b4c9c;#1c4fa3;#1c50a6;#1c50a6;#1c4ea2;#1b4b9a;#1a4790" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="141" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4b9a;#1c50a5;#1d53ac;#1d54af;#1d54ae;#1d51a8;#1c4d9f;#1a4893;#194184;#173a74;#153364;#132c55;#122647;#11213c;#101e35;#101d32;#101d33;#102039;#112442;#13294e;#14305d;#16376d;#183e7d;#1a458c;#1b4b9a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="155" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305d;#16376d;#183e7e;#1a458d;#1b4b9a;#1c50a5;#1d53ac;#1d54af;#1d54ad;#1d51a8;#1c4d9f;#1a4792;#194184;#173a74;#153363;#132c54;#122647;#11213c;#101e35;#101d32;#101d34;#102039;#112442;#132a4f;#14305d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="169" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112341;#11213b;#102039;#11213b;#112340;#122749;#132c54;#153262;#163870;#183f7e;#1a458c;#1b4a97;#1c4ea0;#1c50a6;#1d51a8;#1c50a6;#1c4ea1;#1b4a98;#1a458d;#183f7f;#173971;#153263;#132c55;#12274a;#112341" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="183" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173a74;#153262;#132a51;#112442;#101f36;#0f1b2e;#0f1a2b;#0f1a2c;#101d33;#11223d;#12284b;#142f5b;#16376d;#183f7f;#1a4790;#1c4d9f;#1d52ab;#1e56b3;#1e57b6;#1e57b5;#1d54ae;#1c4fa4;#1b4996;#194286;#173a74" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="197" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea1;#1c4ea1;#1b4c9d;#1b4997;#1a458d;#184082;#173b76;#163569;#14305d;#132b52;#122749;#112443;#112340;#112340;#122544;#12284a;#132c54;#15315f;#16366b;#173c78;#194184;#1a468f;#1b4a98;#1c4d9e;#1c4ea1" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="211" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7d;#1a468f;#1c4da0;#1d53ac;#1e57b5;#1f59b9;#1f59b9;#1e56b3;#1d51a9;#1b4b9b;#19448a;#173b77;#153364;#132b52;#112441;#101e35;#0f1a2c;#0e1828;#0e1828;#0f1b2e;#102038;#122646;#142d57;#16366a;#183e7d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="225" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122544;#12284a;#132c54;#15315f;#16366b;#173c77;#194184;#1a468e;#1b4a97;#1b4c9d;#1c4ea1;#1c4ea0;#1b4c9d;#1b4997;#1a458d;#184082;#173b76;#16356a;#14305d;#132b53;#12274a;#122544;#112340;#112341;#122544" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="239" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132c55;#122545;#101f38;#0f1b2e;#0f1929;#0f1929;#0f1b2e;#101f37;#122545;#132c55;#153467;#183d7a;#1a458c;#1b4c9c;#1d52a9;#1e56b3;#1e58b8;#1e58b8;#1e56b3;#1d52aa;#1b4c9c;#1a458c;#183d7a;#153467;#132c55" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="253" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#194388;#183d7a;#16366c;#14305e;#132b51;#122647;#11233f;#11213b;#10203a;#11223d;#122544;#13294d;#142e59;#153467;#173b75;#194183;#1a4690;#1b4b9a;#1c4ea2;#1c50a6;#1d51a7;#1c4fa4;#1b4c9d;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="267" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4a98;#1c4fa4;#1d53ad;#1e55b2;#1e56b2;#1d54ae;#1c50a5;#1b4b9a;#19448b;#183d7a;#163569;#142e58;#122749;#11223d;#101e34;#0f1c2f;#0f1b2f;#101d33;#11213c;#122647;#142d56;#153467;#173c78;#194389;#1b4a98" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="281" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5b;#16366b;#183e7c;#1a458c;#1b4b9a;#1c50a5;#1d53ad;#1e55b0;#1e55b0;#1d52ab;#1c4ea1;#1b4995;#194286;#173b76;#153365;#132c55;#122647;#11213c;#101e34;#0f1c31;#0f1c31;#101f36;#112340;#12284c;#142f5b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="295" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112442;#11213b;#101f38;#102039;#11223d;#122545;#132a50;#14305d;#16366b;#183d7a;#194388;#1a4894;#1c4d9f;#1c50a6;#1d52a9;#1d51a8;#1c4fa4;#1b4c9c;#1a4791;#194184;#173b76;#153467;#142e59;#13294d;#112442" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="309" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b77;#153364;#132b52;#112442;#101e35;#0f1a2c;#0e1828;#0f1929;#0f1b2f;#102039;#122647;#142e58;#16366a;#183e7d;#1a468f;#1c4d9f;#1d53ac;#1e57b5;#1f59b9;#1e58b8;#1e56b2;#1d51a8;#1b4b9a;#194389;#173b77" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="323" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea0;#1c4ea1;#1c4d9e;#1b4a98;#1a4690;#194285;#173c79;#16376d;#153160;#132c55;#12284c;#122545;#112341;#112340;#112443;#122749;#132b51;#142f5c;#163568;#173a74;#184081;#1a458c;#1b4995;#1b4c9c;#1c4ea0" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="337" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183d7a;#1a458e;#1c4d9f;#1d53ad;#1e58b7;#1f5abc;#1f5abc;#1e58b7;#1d54ad;#1c4d9f;#1a468e;#183d7b;#153467;#132c53;#112442;#101e34;#0f192a;#0e1725;#0e1725;#0f192a;#101d34;#112442;#132b53;#153466;#183d7a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="351" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122545;#12284b;#132b53;#14305e;#16356a;#173b76;#184082;#1a458c;#1b4995;#1b4c9c;#1c4d9f;#1c4d9f;#1b4c9c;#1b4996;#1a468e;#194183;#173c77;#16366b;#15315f;#132c55;#12284c;#122545;#112442;#112442;#122545" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="365" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142e58;#122647;#101f38;#0f1b2d;#0e1827;#0e1726;#0f192a;#101d32;#11233f;#132a50;#153262;#173b76;#194389;#1b4b9a;#1d52a9;#1e56b4;#1f59ba;#1f5abb;#1e58b7;#1d54af;#1c4ea2;#1a4791;#183f7f;#16366b;#142e58" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="379" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4893;#194387;#183d7a;#16366c;#14305e;#132b51;#122647;#11233f;#11213b;#10203a;#11223d;#122544;#13294e;#142e5a;#153467;#173b75;#194183;#1a4690;#1b4b9a;#1c4ea2;#1c50a6;#1d51a7;#1c4fa4;#1b4c9d;#1a4893" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="393" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#1c4ea2;#1d53ac;#1e56b2;#1e56b4;#1e55b1;#1d52aa;#1c4d9f;#1a4790;#183f80;#16386e;#14305d;#13294d;#11233f;#101e35;#0f1b2f;#0f1b2d;#0f1c30;#101f37;#112442;#132a51;#153261;#173973;#194184;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="407" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142e5a;#16366b;#183e7c;#1a458d;#1b4b9b;#1d51a7;#1d54af;#1e56b3;#1e55b2;#1d53ad;#1c4fa3;#1b4996;#194387;#173b76;#153365;#132c54;#122646;#10203a;#101d32;#0f1b2e;#0f1c2f;#101e34;#11223e;#12284b;#142e5a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="421" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122646;#11223e;#10203a;#102039;#11213c;#112442;#12284c;#142e58;#153466;#173a74;#194183;#1a4690;#1b4b9b;#1c4fa3;#1d51a7;#1d51a8;#1c50a5;#1c4d9f;#1b4995;#194389;#183d7b;#16376d;#14305e;#132b51;#122646" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="435" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173c79;#153365;#132b52;#112341;#101d33;#0f1929;#0e1725;#0e1725;#0f192b;#101e35;#112443;#132c55;#163568;#183e7c;#1a468f;#1c4ea0;#1d54ae;#1e58b8;#1f5abc;#1f5abc;#1e58b6;#1d53ac;#1c4d9e;#1a458c;#173c79" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="449" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4c9c;#1b4c9d;#1b4c9c;#1b4a97;#1a4690;#194286;#183d7b;#16386f;#153364;#142e59;#132a50;#122749;#122545;#122544;#122545;#12274a;#132b51;#142f5b;#153466;#173972;#183e7d;#194388;#1a4791;#1b4a98;#1b4c9c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="463" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b76;#19448b;#1c4d9e;#1d54ae;#1f59ba;#1f5cc0;#205dc2;#1f5bbd;#1e56b4;#1c50a6;#1a4894;#183f80;#16366b;#142d56;#112443;#101d33;#0e1827;#0e1521;#0d141f;#0e1624;#0f1b2d;#11213b;#13294d;#153261;#173b76" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="477" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122648;#13294e;#142d56;#153161;#16366c;#173c77;#184082;#1a458c;#1a4894;#1b4b9a;#1b4c9d;#1b4c9c;#1b4b99;#1a4893;#19448b;#184080;#173b75;#16356a;#15315f;#132c55;#13294d;#122647;#122544;#122545;#122648" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="491" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#15315f;#12284b;#11213b;#0f1b2e;#0e1726;#0e1622;#0e1724;#0f1a2c;#101f38;#122647;#142f5a;#16376e;#184082;#1b4996;#1c50a6;#1e56b3;#1f5abb;#1f5bbf;#1f5abd;#1e57b5;#1d52a9;#1b4b9a;#194287;#173a73;#15315f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="505" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4892;#194285;#173b77;#163568;#142e5a;#13294d;#112443;#11213b;#101f38;#101f38;#11213c;#122544;#13294f;#142f5c;#16366a;#173c79;#194387;#1a4894;#1c4d9e;#1c50a6;#1d52a9;#1d52a9;#1c50a5;#1b4c9d;#1a4892" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="519" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a458c;#1b4b9a;#1c50a6;#1d54ae;#1e56b2;#1e56b2;#1d53ad;#1c4fa4;#1b4a97;#194388;#173c77;#153466;#132c55;#122647;#11213b;#101d33;#0f1b2f;#0f1b2f;#101e34;#11223d;#12274a;#142e59;#16356a;#183d7b;#1a458c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="533" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d57;#163569;#183e7d;#1a468f;#1c4d9f;#1d53ad;#1e57b6;#1f59ba;#1f59b9;#1e56b4;#1d52a9;#1b4c9b;#19448a;#173c78;#153364;#132b52;#112442;#101e34;#0f1a2b;#0e1827;#0e1828;#0f1b2d;#101f38;#122546;#142d57" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="547" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a4f;#122647;#112442;#112340;#112442;#122646;#13294e;#142d58;#153363;#163870;#183e7c;#194388;#1a4792;#1b4b9a;#1c4d9f;#1c4ea1;#1c4d9f;#1b4b9b;#1a4893;#194489;#183e7e;#173971;#153365;#142e59;#132a4f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="561" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#194183;#16376d;#142d57;#112443;#101d32;#0e1726;#0d141e;#0d131c;#0e1520;#0f1929;#101f37;#122749;#14305e;#173a74;#19448a;#1c4d9e;#1d54af;#1f5abb;#205dc3;#205ec5;#1f5cc1;#1e58b8;#1d52aa;#1b4a98;#194183" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="575" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4b99;#1b4a98;#1b4995;#1a468f;#194287;#183e7d;#173972;#163568;#14305e;#132c55;#13294e;#12274a;#122648;#122749;#12284c;#132b52;#142f5a;#153364;#16386f;#173c79;#194183;#1a458c;#1a4893;#1b4a97;#1b4b99" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="589" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#163568;#183e7d;#1a4790;#1c4ea2;#1e55b0;#1f59ba;#1f5bbf;#1f5bbe;#1e58b8;#1d54ae;#1c4d9f;#1a458d;#173c79;#153364;#132a51;#11233f;#0f1c31;#0e1827;#0e1622;#0e1623;#0f1929;#101d33;#112442;#132c54;#163568" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="603" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11223d;#122545;#132a4f;#142f5c;#16366a;#173c79;#194387;#1a4894;#1c4d9e;#1c50a5;#1d51a8;#1d51a8;#1c4fa4;#1b4c9c;#1a4792;#194285;#173b77;#163568;#142e5a;#13294d;#112443;#11213c;#102039;#102039;#11223d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="617" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5c;#12284b;#11223d;#101d32;#0f1a2c;#0f192a;#0f1a2d;#101e34;#112340;#132a4f;#153160;#173973;#194285;#1b4996;#1c4fa4;#1d54af;#1e57b5;#1e58b7;#1e57b4;#1d53ad;#1c4ea1;#1a4792;#184081;#16386e;#142f5c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="631" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a468f;#194184;#173c79;#16376c;#153160;#132c55;#12284c;#122546;#112442;#112441;#122544;#12274a;#132b52;#14305d;#163568;#173a75;#184081;#1a458c;#1b4995;#1b4c9b;#1c4d9f;#1c4da0;#1b4c9d;#1b4a97;#1a468f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="645" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183f80;#1a4792;#1c4ea2;#1d54ae;#1e58b6;#1f59ba;#1f59b9;#1e56b2;#1d51a7;#1b4a99;#194388;#173a75;#153261;#132a4f;#11233f;#101d33;#0f192b;#0e1827;#0e1828;#0f1b2f;#10203a;#122748;#142e59;#16376c;#183f80" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="659" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#12284b;#153261;#173c78;#1a468e;#1c4fa3;#1e56b3;#1f5cc0;#205fc7;#205fc8;#205dc3;#1e58b8;#1d52a9;#1b4996;#183f80;#163569;#132b53;#11223e;#0f1b2e;#0e1521;#0d121a;#0d1219;#0d141e;#0f1929;#101f38;#12284b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="673" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a50;#122647;#112341;#11223e;#11223e;#112443;#12274a;#132c54;#15315f;#16376c;#183d7a;#194286;#1a4791;#1b4b9a;#1c4ea0;#1c4fa3;#1c4fa3;#1c4d9e;#1b4a97;#1a458d;#184082;#173a75;#153467;#142f5b;#132a50" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="687" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#194184;#163568;#13294d;#101d33;#0d141e;#0d1117;#0d1117;#0d1117;#0d1117;#0d1117;#0f192a;#112442;#14305d;#173c79;#1a4894;#1d54ae;#205dc3;#2161cb;#2161cb;#2161cb;#2161cb;#2060ca;#1e58b7;#1c4d9f;#194184" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="701" y="43" width="11" height="11" rx="2" fill="#161b22" stroke="#58a6ff" stroke-width="0.6" stroke-opacity="0.5">
+    <animate attributeName="fill" values="#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728;#0f8728" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="715" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#153466;#16366a;#16386f;#173a74;#173c78;#183e7c;#183f80;#184082;#194183;#184082;#184081;#183f7e;#183d7b;#173b77;#173972;#16376d;#163569;#153365;#153261;#15315f;#14305e;#15315f;#153160;#153263;#153466" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="729" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#101e34;#101e35;#11213b;#122544;#132a50;#14305e;#16376d;#183e7d;#1a458c;#1b4b99;#1c4fa3;#1d52aa;#1d53ad;#1d53ac;#1c50a6;#1b4c9d;#1a4791;#194183;#173a74;#153364;#132c55;#122648;#11223e;#101f37;#101e34" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="743" y="43" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122748;#11223d;#101e35;#101d32;#101d32;#101f37;#112340;#12284c;#142f5a;#16366a;#183d7b;#19448b;#1b4a99;#1c4fa4;#1d53ac;#1d54af;#1d54af;#1d52aa;#1c4ea1;#1b4995;#194287;#173b77;#153466;#142d56;#122748" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="15" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4fa4;#1d54af;#1e58b6;#1f59b9;#1e58b6;#1d54af;#1c4fa4;#1b4995;#194183;#173971;#14305e;#12284c;#11223d;#101d32;#0f192b;#0e1828;#0f192b;#101d32;#11223d;#12284c;#14305e;#163870;#194183;#1b4995;#1c4fa4" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="29" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5b;#16366a;#173c79;#194388;#1b4995;#1c4ea0;#1d51a8;#1d53ab;#1d52ab;#1d51a7;#1c4d9f;#1a4894;#194286;#173b77;#163568;#142e59;#12284c;#112341;#102039;#101e36;#101f36;#10203a;#112442;#13294d;#142f5b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="43" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#101e36;#0f1b2f;#0f1a2c;#0f1b2e;#101e35;#112340;#13294e;#14305e;#163870;#184081;#1a4792;#1c4ea0;#1d53ab;#1e56b2;#1e57b5;#1e56b3;#1d53ac;#1c4ea1;#1a4893;#194183;#173971;#153160;#132a4f;#112341;#101e36" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="57" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#16386f;#14305d;#13294d;#11223f;#101e34;#0f1b2e;#0f1a2c;#0f1b2f;#101f36;#112442;#132a50;#153161;#173972;#194184;#1a4894;#1c4fa2;#1d53ad;#1e56b3;#1e57b5;#1e56b2;#1d52ab;#1c4d9f;#1a4791;#184080;#16386f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="71" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4fa4;#1c50a6;#1c50a5;#1c4da0;#1b4a97;#1a458c;#183f7f;#173971;#153363;#142d56;#12284b;#112442;#11223d;#11213b;#11213c;#112441;#12274a;#132c55;#153262;#163870;#183e7e;#19448b;#1b4996;#1c4d9f;#1c4fa4" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="85" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7e;#1a4893;#1c50a6;#1e57b5;#1f5cc0;#205ec5;#205ec4;#1f5bbe;#1e56b2;#1c4fa2;#1a468f;#173c79;#153363;#13294e;#11213b;#0f1a2c;#0e1521;#0d131c;#0d131d;#0e1623;#0f1b2f;#11223f;#132b52;#163568;#183e7e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="99" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11213c;#122545;#132a51;#15315f;#16376e;#183e7e;#1a458c;#1b4b99;#1c4fa3;#1d52aa;#1d53ac;#1d52ab;#1c50a5;#1b4c9c;#1a4790;#184082;#173a73;#153363;#132c55;#122648;#11223e;#101f37;#101e35;#101f36;#11213c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="113" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#12284b;#11213b;#0f1c30;#0e1828;#0e1726;#0e1828;#0f1c30;#11213c;#12284b;#14305d;#173971;#194184;#1b4996;#1c50a6;#1e55b1;#1f59b9;#1f5abb;#1f59b9;#1e55b1;#1c50a5;#1b4996;#194184;#163870;#14305d;#12284b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="127" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4892;#194285;#173b76;#153467;#142e59;#12284c;#112442;#11213b;#101f37;#101f38;#11213c;#122544;#13294f;#142f5c;#16366b;#183d7a;#194388;#1b4995;#1c4d9f;#1c50a6;#1d52aa;#1d52a9;#1c50a5;#1b4c9d;#1a4892" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="141" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4d9e;#1d51a9;#1e55b0;#1e56b2;#1e55b0;#1d52aa;#1c4ea0;#1a4893;#194183;#173972;#153261;#132a51;#112443;#102038;#0f1c31;#0f1b2f;#0f1c31;#101f37;#112341;#13294e;#14305e;#16386f;#183f80;#1a4790;#1c4d9e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="155" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305e;#16386e;#183f7f;#1a468e;#1b4c9c;#1c50a6;#1d54ad;#1e55b0;#1d54ae;#1d51a9;#1c4d9f;#1a4792;#194183;#173973;#153262;#132b53;#122545;#11213b;#101d34;#0f1c31;#101d33;#102038;#112442;#132a4f;#14305e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="169" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11223e;#102039;#101f37;#102039;#11233f;#122748;#132c55;#153262;#173971;#184080;#1a468e;#1b4b9a;#1c4fa3;#1d51a8;#1d52aa;#1d51a8;#1c4ea2;#1b4a99;#1a458c;#183f7f;#163870;#153161;#132b53;#122647;#11223e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="183" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173973;#153160;#132a4f;#112340;#101e35;#0f1b2d;#0f192a;#0f1a2c;#101d33;#11223e;#12284c;#14305c;#16386e;#184081;#1a4792;#1c4ea1;#1d53ac;#1e56b4;#1e58b7;#1e57b5;#1d54ae;#1c4fa3;#1b4995;#194185;#173973" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="197" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4fa3;#1c4fa3;#1c4d9f;#1b4a98;#1a468e;#194183;#173b76;#163568;#142f5c;#132a50;#122647;#112341;#11223e;#11223e;#112442;#122749;#132b53;#14305e;#16366b;#173c79;#194285;#1a4791;#1b4b9a;#1c4ea0;#1c4fa3" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="211" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183f7f;#1a4791;#1c4ea1;#1d54ae;#1e57b6;#1f59ba;#1f59b9;#1e56b2;#1d51a8;#1b4b99;#194388;#173b75;#153262;#132a50;#112340;#101d33;#0f1a2b;#0e1827;#0e1828;#0f1b2f;#102039;#122648;#142e59;#16366c;#183f7f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="225" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112443;#12274a;#132b53;#14305e;#16366a;#173b77;#194183;#1a468e;#1b4a97;#1c4d9e;#1c4ea1;#1c4ea1;#1c4d9e;#1b4a97;#1a468e;#194183;#173b77;#16366a;#14305e;#132b53;#12274a;#112443;#112340;#112340;#112443" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="239" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132b53;#112443;#101e36;#0f1a2d;#0e1828;#0f1929;#0f1b2e;#101f38;#122546;#142d56;#163569;#183e7c;#1a468e;#1c4d9e;#1d53ab;#1e57b4;#1f59b9;#1e58b8;#1e56b3;#1d52a9;#1b4c9b;#19448b;#173c78;#153365;#132b53" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="253" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#194388;#183d7a;#16376c;#14305e;#132b52;#122647;#112340;#11213b;#11213b;#11223e;#122544;#13294d;#142e59;#153467;#173a75;#194183;#1a468f;#1b4b9a;#1c4ea1;#1c50a6;#1c50a6;#1c4fa3;#1b4c9d;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="267" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4b9a;#1c50a6;#1d54af;#1e56b3;#1e56b3;#1d54ae;#1c50a6;#1b4b99;#19448a;#173c79;#163568;#142d57;#122647;#11213b;#101d32;#0f1b2e;#0f1b2e;#101d33;#11213b;#122648;#142d57;#163568;#173c79;#19448a;#1b4b9a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="281" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5b;#16366c;#183e7c;#1a458c;#1b4b99;#1c50a4;#1d53ac;#1d54af;#1d54ae;#1d52a9;#1c4ea0;#1a4894;#194286;#173b75;#153365;#132c55;#122648;#11213d;#101e35;#101d32;#101d33;#101f38;#112341;#13294d;#142f5b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="295" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112341;#10203a;#101f36;#101f37;#11213b;#122544;#132a4f;#14305c;#16366b;#183d7b;#194389;#1b4996;#1c4ea0;#1d51a7;#1d52ab;#1d52aa;#1c50a6;#1b4c9d;#1a4792;#194185;#173b76;#153466;#142e58;#12284b;#112341" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="309" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b75;#153263;#132a51;#112441;#101e35;#0f1a2d;#0f1929;#0f192a;#0f1c30;#11213b;#122749;#142e59;#16366c;#183f7e;#1a4790;#1c4da0;#1d53ac;#1e57b4;#1e58b8;#1e58b7;#1e55b1;#1c50a6;#1b4a98;#194388;#173b75" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="323" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea1;#1c4fa2;#1c4ea0;#1b4b9a;#1a4792;#194287;#183d7a;#16376d;#153161;#132c55;#12284b;#122544;#112340;#11223f;#112341;#122647;#132a4f;#142f5a;#153467;#173a74;#184080;#1a458c;#1b4996;#1b4c9d;#1c4ea1" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="337" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7c;#1a468f;#1c4ea0;#1d54ae;#1e58b8;#1f5abc;#1f5abc;#1e57b6;#1d53ac;#1b4c9d;#1a458c;#173c78;#153365;#132b52;#112341;#101d33;#0f1929;#0e1725;#0e1725;#0f1a2b;#101e35;#122544;#132c55;#163569;#183e7c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="351" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122544;#12274a;#132b52;#142f5c;#163568;#173a74;#183f80;#19448b;#1a4894;#1b4b9b;#1c4d9f;#1c4d9f;#1b4c9d;#1b4a97;#1a468f;#194285;#173c79;#16376d;#153261;#142d56;#13294d;#122646;#112442;#112442;#122544" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="365" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d56;#122544;#101e36;#0f1a2b;#0e1726;#0e1725;#0f192a;#101d33;#112341;#132b51;#153364;#173c78;#19448b;#1b4c9d;#1d53ab;#1e57b6;#1f5abb;#1f5abc;#1e58b7;#1d54ae;#1c4ea0;#1a4690;#183e7d;#163569;#142d56" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="379" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4893;#194388;#183d7b;#16376d;#15315f;#132b53;#122749;#112341;#11213d;#11213c;#11223f;#122545;#13294e;#142e59;#153466;#173a74;#184082;#1a468e;#1b4a98;#1c4ea0;#1c50a4;#1c50a5;#1c4fa2;#1b4c9c;#1a4893" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="393" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4997;#1c50a4;#1d54af;#1e57b5;#1e57b6;#1e56b3;#1d52ab;#1c4d9f;#1a4690;#183f7f;#16376d;#142f5b;#12284a;#11213d;#101d32;#0f1a2c;#0f1a2b;#0f1b2e;#101f36;#112442;#132b51;#153262;#173a74;#194286;#1b4997" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="407" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5b;#16366c;#183e7c;#1a458c;#1b4b9a;#1c50a5;#1d53ad;#1e55b0;#1d54af;#1d52aa;#1c4ea1;#1b4995;#194286;#173b75;#153365;#132c55;#122647;#11213c;#101e34;#0f1c31;#101d32;#101f37;#112340;#12284c;#142f5b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="421" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122544;#11213b;#101f37;#101e36;#102039;#112340;#12274a;#142d57;#153466;#173a75;#194184;#1a4792;#1b4c9d;#1c50a6;#1d52aa;#1d53ab;#1d51a8;#1c4ea1;#1b4a97;#19448a;#183d7b;#16376c;#14305d;#132a4f;#122544" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="435" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b76;#153263;#132a50;#112340;#101d33;#0f192a;#0e1826;#0e1827;#0f1b2d;#101f38;#122646;#142e58;#16366b;#183f7e;#1a4791;#1c4ea1;#1d54ae;#1e58b7;#1f59bb;#1f59ba;#1e56b4;#1d52a9;#1b4b9b;#194389;#173b76" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="449" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4d9e;#1c4ea0;#1c4d9f;#1b4b9a;#1a4893;#194489;#183f7e;#173972;#153465;#142e5a;#132a50;#122748;#112443;#112341;#112442;#122647;#13294e;#142d58;#153263;#16386f;#183d7c;#194387;#1a4791;#1b4a99;#1c4d9e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="463" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183d7a;#1a468f;#1c4ea1;#1e55b0;#1f59bb;#1f5cc0;#1f5cc1;#1f5abb;#1e55b1;#1c4fa2;#1a4790;#183e7c;#153467;#132b52;#112340;#0f1c31;#0e1826;#0e1521;#0e1520;#0e1726;#0f1c30;#11223f;#132a51;#153365;#183d7a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="477" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122648;#13294d;#132c54;#14305d;#163568;#173a73;#183f7e;#194389;#1a4791;#1b4a97;#1b4b9b;#1b4c9c;#1b4b99;#1a4894;#1a458d;#194184;#173c79;#16376e;#153263;#142e58;#132a50;#12274a;#122646;#122545;#122648" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="491" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142e5a;#122647;#101f36;#0f192a;#0e1622;#0e1520;#0e1624;#0f1a2c;#102039;#12274a;#14305e;#173973;#194387;#1b4b9a;#1d52ab;#1e58b7;#1f5bbf;#1f5cc1;#1f5bbd;#1e57b5;#1d51a8;#1b4a97;#194183;#16386e;#142e5a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="505" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4790;#194184;#173c77;#16366a;#14305d;#132a51;#122647;#112340;#11223d;#11223d;#112340;#122647;#132a51;#14305d;#16356a;#173b77;#194184;#1a4790;#1b4b9a;#1c4ea1;#1c4fa4;#1c4fa4;#1c4ea1;#1b4b9a;#1a4790" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="519" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4790;#1c4ea0;#1d53ac;#1e57b4;#1e58b8;#1e58b7;#1e55b1;#1c50a6;#1b4a98;#194387;#173b75;#153262;#132a51;#112341;#101e35;#0f1a2d;#0f1929;#0f192a;#0f1c30;#11213b;#122749;#142e5a;#16366c;#183f7f;#1a4790" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="533" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305c;#16376e;#183f80;#1a4790;#1c4d9f;#1d52aa;#1e56b2;#1e57b5;#1e56b3;#1d53ad;#1c4fa3;#1b4995;#194185;#173a73;#153261;#132a51;#112442;#101f37;#0f1b2f;#0f1a2c;#0f1b2e;#101e34;#11223e;#12284c;#14305c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="547" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#13294d;#112443;#11213c;#102039;#10203a;#11223f;#122646;#132b51;#14305e;#16366c;#183d7a;#194388;#1a4894;#1c4d9e;#1c50a5;#1d51a8;#1d51a7;#1c4fa2;#1b4b9b;#1a4690;#194183;#173b75;#153467;#142e59;#13294d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="561" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183d7a;#153364;#132a4f;#11213c;#0f1b2d;#0e1623;#0d141d;#0d141e;#0e1624;#0f1b2f;#11223f;#132b52;#153467;#183e7d;#1a4792;#1c50a5;#1e56b4;#1f5bbe;#205dc4;#205dc3;#1f5bbd;#1e56b2;#1c4fa2;#1a468f;#183d7a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="575" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#1b4996;#1b4995;#1a4791;#1a458c;#194184;#183d7b;#173972;#163568;#15315f;#142d57;#132a51;#13294d;#12284b;#12284c;#132a50;#132c55;#14305d;#153466;#16386f;#173c79;#184082;#19448a;#1a4790;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="589" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#16376e;#194185;#1b4b9a;#1d53ad;#1f5abb;#205ec5;#2060c9;#205fc6;#1f5bbe;#1e55b1;#1c4d9f;#19448a;#173a73;#14305c;#122647;#101e34;#0e1726;#0d131c;#0d1118;#0d121b;#0e1623;#0f1c30;#112442;#142d57;#16376e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="603" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122748;#132a50;#142f5b;#153467;#173a73;#183f7f;#19448b;#1a4894;#1b4c9b;#1c4da0;#1c4ea1;#1c4d9e;#1b4a99;#1a4791;#194286;#183d7a;#16376e;#153262;#142d56;#13294d;#122546;#112441;#112340;#112443;#122748" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="617" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#153467;#142d56;#122646;#10203a;#0f1c31;#0f1a2c;#0f1a2c;#0f1c31;#10203a;#122647;#142d56;#163568;#183d7a;#19448b;#1b4b9b;#1d51a7;#1e55b0;#1e57b5;#1e57b5;#1e55b0;#1d51a7;#1b4b9a;#19448b;#173c79;#153467" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="631" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4c9d;#1a4792;#194285;#173b77;#163568;#142f5a;#13294d;#112443;#11213c;#102039;#102039;#11223d;#122544;#132a4f;#142f5c;#16366a;#173c79;#194287;#1a4894;#1c4d9e;#1c50a5;#1d51a8;#1d51a8;#1c4fa4;#1b4c9d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="645" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4893;#1c50a6;#1e57b5;#1f5bbf;#205ec4;#205dc3;#1f5abd;#1e55b1;#1c4ea1;#1a458e;#173c78;#153263;#13294e;#11213b;#0f1a2c;#0e1622;#0d131d;#0d141e;#0e1724;#0f1c30;#112340;#132c53;#163569;#183f7e;#1a4893" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="659" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305c;#173973;#194389;#1b4c9d;#1d54ae;#1f5abb;#205dc3;#205ec6;#205dc2;#1f59b9;#1d53ab;#1b4b99;#194185;#16386e;#142e58;#122544;#101d33;#0e1726;#0d141e;#0d131b;#0d141f;#0e1828;#101e36;#122648;#14305c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="673" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a50;#122748;#112443;#112341;#112442;#122646;#13294d;#142d57;#153262;#16386e;#183d7b;#194286;#1a4791;#1b4a99;#1c4d9e;#1c4ea0;#1c4d9f;#1b4b9b;#1a4894;#19448a;#183f7f;#173973;#153466;#142f5b;#132a50" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="687" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173c79;#15315f;#122545;#0f1b2f;#0d131d;#0d1117;#0d1117;#0d1117;#0d1117;#0e1622;#101f36;#13294e;#163568;#184082;#1b4c9c;#1e56b2;#205ec4;#2161cb;#2161cb;#2161cb;#2161cb;#1f5bbf;#1d52ab;#1a4893;#173c79" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="701" y="57" width="11" height="11" rx="2" fill="#161b22" stroke="#58a6ff" stroke-width="0.6" stroke-opacity="0.5">
+    <animate attributeName="fill" values="#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28;#0f4b28" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="715" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173971;#183d7a;#194183;#19448b;#1a4791;#1a4894;#1b4995;#1a4894;#1a4790;#19448a;#184082;#183d7a;#163870;#153467;#14305e;#142d56;#132a50;#13294d;#12284c;#13294d;#132a51;#142d57;#15315f;#153467;#173971" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="729" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122545;#12284c;#142d56;#153261;#16376e;#183d7a;#194286;#1a4791;#1b4a99;#1c4d9e;#1c4ea1;#1c4ea0;#1b4c9c;#1b4995;#19448b;#183f80;#173a73;#153467;#142f5b;#132a50;#122748;#112443;#112340;#112341;#122545" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="743" y="57" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a4f;#122748;#122545;#122544;#122646;#12284b;#132b53;#14305c;#163568;#173a73;#183f7f;#194389;#1a4792;#1b4a99;#1b4c9c;#1b4c9d;#1b4b9b;#1b4996;#1a468e;#194185;#173c79;#16376e;#153262;#142e58;#132a4f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="15" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4fa2;#1d54af;#1e58b7;#1f59ba;#1f59b9;#1e56b2;#1d51a7;#1b4a98;#194287;#173a74;#153160;#13294e;#11223f;#101d32;#0f192a;#0e1827;#0e1828;#0f1b2f;#10203a;#122749;#142f5a;#16376d;#184081;#1a4893;#1c4fa2" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="29" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305e;#16376e;#183e7e;#1a458c;#1b4b99;#1c4fa4;#1d52aa;#1d53ad;#1d53ac;#1c50a6;#1b4c9d;#1a4791;#194183;#173a73;#153363;#132c55;#122648;#11223d;#101f37;#101e34;#101e35;#11213b;#122544;#132a50;#14305e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="43" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11213b;#101d33;#0f1c30;#0f1c31;#101e36;#11223f;#12284b;#142f5a;#16366b;#183e7c;#1a458c;#1b4b9a;#1c50a6;#1d54ae;#1e55b1;#1e55b0;#1d53ab;#1c4fa2;#1b4996;#194287;#173b76;#153365;#132c55;#122647;#11213b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="57" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#163870;#14305d;#12284a;#11213b;#0f1b2f;#0e1827;#0e1725;#0e1827;#0f1b2f;#11213b;#12284b;#14305d;#173971;#194184;#1b4997;#1c50a6;#1e56b2;#1f59ba;#1f5abc;#1f59ba;#1e56b2;#1c50a6;#1b4996;#194184;#163870" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="71" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea0;#1c4da0;#1b4c9c;#1b4996;#1a458d;#184082;#173b76;#16366a;#14305e;#132b53;#12284a;#122544;#112341;#112441;#122545;#12284b;#132c54;#15315f;#16366b;#173b77;#194183;#1a468e;#1b4997;#1b4c9d;#1c4ea0" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="85" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b76;#194489;#1b4b9b;#1d52a9;#1e57b4;#1f59ba;#1f5abb;#1e58b7;#1d54af;#1c4ea2;#1a4791;#183f7e;#16366b;#142d58;#122646;#101f38;#0f1a2d;#0e1827;#0e1726;#0f192a;#101d32;#11233f;#132a50;#153263;#173b76" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="99" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#101f37;#11223d;#122647;#132c54;#153363;#173a73;#194183;#1a4791;#1b4c9d;#1c50a6;#1d53ac;#1d53ad;#1d52aa;#1c4fa4;#1b4b9a;#1a458d;#183e7e;#16376e;#14305e;#132a50;#122544;#11213b;#101e35;#101e34;#101f37" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="113" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#12284c;#11213b;#0f1b2d;#0e1624;#0e1520;#0e1521;#0e1828;#101e34;#122544;#142d57;#16366c;#184081;#1b4995;#1c50a6;#1e56b4;#1f5bbd;#1f5cc1;#1f5cc0;#1f59b9;#1d53ad;#1b4c9d;#19448a;#173b75;#153160;#12284c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="127" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4a98;#19448a;#183d7b;#16366a;#142f5a;#12284c;#112340;#101f38;#101d33;#101d32;#101e36;#11223e;#122749;#142d57;#153466;#173b77;#194287;#1b4995;#1c4ea1;#1d52a9;#1d54ae;#1d54af;#1d53ab;#1c4fa3;#1b4a98" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="141" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea2;#1d54ad;#1e57b5;#1e58b7;#1e57b5;#1d54ae;#1c4fa3;#1b4995;#194184;#173971;#15315f;#13294e;#11233f;#101d34;#0f1a2c;#0f192a;#0f1a2c;#101d33;#11223e;#12284c;#14305d;#163870;#184082;#1a4893;#1c4ea2" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="155" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305d;#16376e;#183f7f;#1a468f;#1c4d9e;#1d51a9;#1e55b0;#1e56b3;#1e55b1;#1d53ab;#1c4ea1;#1a4894;#194184;#173a73;#153262;#132b52;#112443;#102038;#0f1c31;#0f1b2e;#0f1c30;#101e36;#112340;#13294d;#14305d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="169" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11213b;#101e35;#101d34;#101f36;#11223d;#122647;#132c54;#153263;#173973;#184082;#1a4791;#1b4c9d;#1c50a6;#1d53ac;#1d54ad;#1d52ab;#1c4fa4;#1b4b9a;#1a458d;#183f7e;#16386e;#15315f;#132a50;#122544;#11213b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="183" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173972;#15315f;#13294e;#11223f;#101d33;#0f1a2c;#0f1929;#0f1a2b;#101d32;#11213d;#12284b;#14305d;#16386f;#184082;#1a4893;#1c4fa2;#1d54ae;#1e57b5;#1e58b8;#1e57b6;#1d54af;#1c50a4;#1b4996;#194184;#173972" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="197" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c50a5;#1c50a5;#1c4ea1;#1b4b99;#1a468f;#194183;#173b75;#153467;#142f5a;#13294e;#122545;#11223f;#11213c;#11213c;#112340;#122648;#132b52;#14305e;#16366c;#183d7a;#194287;#1a4893;#1b4c9c;#1c4fa2;#1c50a5" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="211" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#184081;#1a4893;#1c4fa3;#1d54af;#1e58b8;#1f5abb;#1f59b9;#1e56b3;#1d51a8;#1b4a99;#194387;#173a74;#153160;#13294e;#11223e;#101d32;#0f1929;#0e1726;#0e1828;#0f1b2e;#102039;#122748;#142e5a;#16376d;#184081" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="225" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112442;#122748;#132b52;#14305d;#16366a;#173b77;#194184;#1a468f;#1b4a99;#1c4d9f;#1c4fa3;#1c4fa3;#1c4d9f;#1b4a99;#1a468f;#194184;#173b77;#16366a;#14305d;#132b52;#122748;#112442;#11223e;#11223e;#112442" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="239" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132b51;#112341;#101e34;#0f1a2b;#0e1827;#0e1828;#0f1b2e;#101f38;#122646;#142d57;#16366a;#183e7d;#1a4690;#1c4ea0;#1d53ad;#1e57b6;#1f59ba;#1f59b9;#1e56b3;#1d52a9;#1b4b9b;#19448a;#173b77;#153364;#132b51" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="253" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#194388;#183d7b;#16376c;#14305e;#132b52;#122647;#11233f;#11213b;#10203a;#11223d;#112443;#13294d;#142e59;#153466;#173a75;#194183;#1a468f;#1b4b9a;#1c4ea2;#1c50a6;#1d51a7;#1c4fa4;#1c4d9e;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="267" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4c9b;#1d51a8;#1e55b0;#1e57b4;#1e56b4;#1d54af;#1c50a6;#1b4a99;#194389;#173c78;#153466;#132c55;#122546;#102039;#0f1c31;#0f1a2d;#0f1b2d;#101d32;#11213b;#122748;#142e58;#163569;#183d7b;#1a458c;#1b4c9b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="281" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5c;#16366c;#183e7c;#1a458c;#1b4b99;#1c50a4;#1d53ac;#1d54af;#1d54ae;#1d52a9;#1c4ea0;#1a4894;#194285;#173b75;#153365;#132c55;#122648;#11213d;#101e35;#101d32;#101d33;#101f38;#112341;#13294d;#142f5c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="295" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11223f;#101f38;#101e35;#101e36;#11213b;#112443;#132a4f;#14305d;#16376c;#183e7c;#19448b;#1b4a98;#1c4fa2;#1d52a9;#1d53ac;#1d53ab;#1c50a6;#1c4d9e;#1a4792;#194184;#173a75;#153365;#142d56;#122749;#11223f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="309" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173a74;#153262;#132a50;#112341;#101e35;#0f1a2d;#0f192a;#0f1a2b;#0f1c31;#11213b;#12274a;#142f5a;#16376d;#183f7f;#1a4791;#1c4ea0;#1d53ac;#1e57b4;#1e58b7;#1e57b6;#1e55b0;#1c50a6;#1b4a97;#194287;#173a74" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="323" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4fa3;#1c4fa4;#1c4ea1;#1b4b9b;#1a4892;#194387;#183d7a;#16376d;#153160;#132c54;#12274a;#112442;#11223e;#11223d;#112340;#122646;#13294f;#142e5a;#153467;#173a74;#184081;#1a458d;#1b4a97;#1c4d9f;#1c4fa3" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="337" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7e;#1a4791;#1c4ea1;#1d54af;#1e58b8;#1f5abc;#1f5abb;#1e57b5;#1d52ab;#1b4c9c;#19448b;#173b77;#153363;#132a50;#112340;#101d32;#0f1929;#0e1725;#0e1726;#0f1a2c;#101f36;#122545;#142d56;#16366a;#183e7e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="351" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112443;#122749;#132a51;#142f5b;#153467;#173a73;#183f80;#19448b;#1a4894;#1b4c9b;#1c4d9f;#1c4ea0;#1c4d9e;#1b4a98;#1a4790;#194286;#183d7a;#16376e;#153261;#142d56;#13294d;#122546;#112442;#112341;#112443" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="365" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132c54;#112443;#101e35;#0f192b;#0e1725;#0e1725;#0f192a;#101e34;#112442;#132b53;#153466;#183d7a;#1a458d;#1c4d9e;#1d53ac;#1e58b6;#1f5abc;#1f5abc;#1e58b7;#1d53ad;#1c4d9f;#1a468e;#183d7b;#153467;#132c54" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="379" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#194388;#183d7b;#16376e;#153160;#132c54;#12274a;#112442;#11223d;#11213c;#11223f;#122544;#13294d;#142e59;#153466;#173a73;#184081;#1a458d;#1b4a97;#1c4d9f;#1c4fa4;#1c50a5;#1c4fa2;#1b4c9d;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="393" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4a99;#1c50a6;#1e55b0;#1e57b6;#1e58b7;#1e56b3;#1d52aa;#1c4d9e;#1a468f;#183e7d;#16366b;#142e59;#122748;#11213b;#0f1c31;#0f1a2b;#0f192a;#0f1b2e;#101f37;#112443;#132b52;#153364;#173b76;#194388;#1b4a99" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="407" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5c;#16366c;#183e7c;#19448b;#1b4b99;#1c4fa4;#1d53ab;#1d54af;#1d54ae;#1d52a9;#1c4ea0;#1a4894;#194285;#173b75;#153365;#142d56;#122648;#11223d;#101e36;#101d32;#101d33;#101f38;#112341;#13294d;#142f5c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="421" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112442;#102039;#101e35;#101e34;#101f38;#11223f;#12274a;#142d57;#153466;#173b76;#194286;#1a4894;#1c4d9f;#1d51a8;#1d53ac;#1d53ad;#1d52a9;#1c4fa2;#1b4a97;#19448a;#183d7b;#16366b;#142f5b;#13294d;#112442" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="435" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b75;#153262;#132a50;#112340;#101e34;#0f1a2b;#0e1828;#0f1929;#0f1b2f;#10203a;#122748;#142e59;#16366c;#183f7f;#1a4791;#1c4ea1;#1d53ad;#1e57b6;#1f59b9;#1e58b8;#1e56b2;#1d51a7;#1b4a99;#194388;#173b75" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="449" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea0;#1c4fa2;#1c4ea1;#1b4c9c;#1b4995;#19448b;#183f7f;#173972;#153465;#142e59;#132a4f;#122647;#112341;#11223f;#112340;#122545;#12284c;#142d56;#153262;#16386f;#183d7c;#194388;#1a4792;#1b4b9a;#1c4ea0" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="463" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7c;#1a4790;#1c4fa2;#1e55b1;#1f59bb;#1f5cc0;#1f5cbf;#1f59ba;#1d54af;#1c4ea0;#1a458e;#183d7a;#153365;#132a51;#11223f;#0f1c30;#0e1826;#0e1521;#0e1522;#0e1827;#101d32;#112341;#132c53;#153467;#183e7c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="477" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122646;#12284b;#132b52;#142f5b;#153466;#173971;#183e7c;#194287;#1a4690;#1b4a97;#1b4b9b;#1b4c9c;#1b4b9b;#1b4996;#1a468f;#194286;#183d7b;#163870;#153365;#142f5a;#132b51;#12274a;#122646;#122545;#122646" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="491" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d57;#122544;#101e34;#0e1828;#0e1522;#0e1520;#0e1724;#0f1b2e;#11213b;#13294d;#153261;#173b76;#19448a;#1b4c9d;#1d53ad;#1f59b9;#1f5cbf;#1f5cc1;#1f5abd;#1e56b3;#1c50a6;#1a4894;#183f80;#16366b;#142d57" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="505" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4790;#194285;#173c79;#16376c;#15315f;#132c54;#12284a;#112443;#11233f;#11223f;#112442;#122648;#132a51;#142f5c;#163568;#173a75;#184082;#1a458d;#1b4997;#1c4d9e;#1c4ea2;#1c4fa2;#1c4d9f;#1b4b99;#1a4790" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="519" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#1c4fa4;#1e55b0;#1e58b8;#1f59bb;#1e58b8;#1e55b1;#1c50a6;#1b4997;#194285;#173972;#15315f;#13294d;#11223d;#0f1c31;#0f1929;#0e1826;#0f1929;#0f1c30;#11213b;#12284a;#142f5c;#16386f;#184082;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="533" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305e;#16386f;#183f7f;#1a468f;#1b4c9d;#1d51a7;#1d54ae;#1e55b1;#1d54af;#1d52a9;#1c4d9f;#1a4792;#194183;#173972;#153262;#132b52;#122544;#10203a;#101d33;#0f1c30;#101d32;#101f38;#112442;#132a4f;#14305e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="547" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122748;#11223e;#101f37;#101e34;#101e35;#10203a;#112443;#132a4f;#14305d;#16376d;#183e7c;#19448b;#1b4a99;#1c4fa3;#1d52aa;#1d53ad;#1d53ac;#1d51a7;#1c4d9e;#1a4792;#194184;#173a74;#153365;#142d56;#122748" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="561" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173a74;#153160;#12284c;#11213b;#0f1b2d;#0e1724;#0e1521;#0e1622;#0f1929;#101e35;#122545;#142e58;#16376d;#184081;#1b4995;#1c50a6;#1e56b4;#1f5abd;#1f5cc0;#1f5bbf;#1e58b8;#1d53ac;#1b4c9c;#194389;#173a74" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="575" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4996;#1b4b99;#1b4b9a;#1b4a98;#1a4893;#1a458c;#194183;#173c78;#16376e;#153263;#142e59;#132a51;#12284b;#122648;#122647;#122749;#13294e;#132c55;#14305e;#163569;#173a73;#183f7e;#194388;#1a4790;#1b4996" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="589" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b77;#1a468e;#1c4fa4;#1e57b5;#205dc3;#2060ca;#2161cb;#205fc7;#1f5abc;#1d53ac;#1b4a98;#184082;#16366a;#132b53;#11223d;#0f1a2c;#0d141e;#0d1117;#0d1117;#0d121a;#0e1725;#101e35;#122749;#15315f;#173b77" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="603" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132b52;#142d58;#15315f;#163568;#173971;#183d7b;#194183;#19448b;#1a4790;#1a4894;#1b4995;#1a4893;#1a468f;#194489;#184082;#173c79;#163870;#153466;#14305e;#142d56;#132a51;#13294d;#12284c;#13294e;#132b52" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="617" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#16366b;#142d56;#112442;#101d32;#0e1726;#0d141f;#0d141d;#0e1522;#0f1a2b;#102039;#12284c;#153160;#173b76;#19448b;#1c4d9f;#1d54af;#1f5abb;#205dc2;#205dc4;#1f5cbf;#1e57b6;#1d51a8;#1b4995;#184081;#16366b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="631" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4d9f;#1a4690;#183f7e;#16366c;#142e5a;#122749;#11213b;#0f1c31;#0f192b;#0f1929;#0f1b2d;#101e35;#112442;#132b51;#153263;#173b75;#194387;#1b4a98;#1c50a6;#1e55b0;#1e58b6;#1e58b8;#1e56b4;#1d53ac;#1c4d9f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="645" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4b9a;#1d51a7;#1e55b0;#1e57b5;#1e57b5;#1e55b1;#1d51a8;#1b4b9b;#1a458c;#183d7a;#163568;#142d56;#122647;#10203a;#0f1c31;#0f1a2c;#0f1a2c;#0f1c30;#102039;#122646;#132c55;#153467;#173c79;#19448b;#1b4b9a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="659" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#153263;#173b76;#194388;#1b4b99;#1d51a7;#1e56b2;#1e58b8;#1f59b9;#1e57b5;#1d53ad;#1c4ea0;#1a4790;#183f7e;#16366b;#142e59;#122648;#10203a;#0f1b2f;#0f1929;#0e1828;#0f1a2c;#101e34;#112341;#132a51;#153263" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="673" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a50;#12284b;#122749;#122749;#12284c;#132b51;#142e59;#153262;#16376c;#173b77;#184081;#19448a;#1a4791;#1b4996;#1b4a98;#1b4a98;#1b4995;#1a4690;#194388;#183f7f;#173a75;#16366a;#153160;#142d57;#132a50" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="687" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183f7f;#16366c;#142e59;#122748;#10203a;#0f1c2f;#0f1929;#0e1828;#0f1a2c;#101e34;#112341;#132a50;#153262;#173b75;#194388;#1b4a99;#1d51a7;#1e55b2;#1e58b8;#1f59b9;#1e57b5;#1d53ad;#1c4ea0;#1a4791;#183f7f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="701" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c50a6;#1c50a5;#1c4ea1;#1b4a99;#1a468e;#184081;#173a73;#153465;#142e58;#12284c;#112443;#11223d;#11213b;#11213c;#112340;#122748;#132b53;#153160;#16376e;#183d7c;#194389;#1b4995;#1c4d9e;#1c4fa4;#1c50a6" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="715" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#1c50a5;#1e56b3;#1f5abd;#1f5cc1;#1f5cc0;#1f59b9;#1d53ad;#1b4c9d;#19448b;#173b76;#153261;#13294d;#11213c;#0f1b2e;#0e1724;#0e1520;#0e1521;#0e1828;#101e34;#122544;#142d56;#16366b;#183f80;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="729" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#163568;#173a74;#183f7f;#194389;#1a4791;#1b4a98;#1b4b9b;#1b4c9c;#1b4b9a;#1a4894;#1a458d;#194183;#173c79;#16376d;#153262;#142e58;#132a50;#122749;#122646;#122545;#122647;#13294d;#132c54;#14305e;#163568" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="743" y="71" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#153364;#153262;#153261;#153161;#153262;#153364;#153466;#16366a;#16376e;#173972;#173b76;#183d7a;#183e7d;#183f7f;#183f80;#184080;#183f7f;#183e7d;#183d7b;#173b77;#173a73;#16386f;#16366b;#153467;#153364" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="15" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4d9f;#1d53ac;#1e57b5;#1f59b9;#1e58b8;#1e56b3;#1d51a9;#1b4b9b;#19448a;#173c78;#153365;#132b52;#112442;#101e35;#0f1a2c;#0e1828;#0f1929;#0f1b2e;#102038;#122646;#142d57;#163569;#183e7c;#1a468f;#1c4d9f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="29" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305e;#16386f;#183f80;#1a4690;#1c4d9e;#1d51a9;#1e55b0;#1e56b2;#1e55b0;#1d52aa;#1c4ea0;#1a4893;#194183;#173972;#153261;#132b51;#112443;#102038;#0f1c31;#0f1b2f;#0f1c31;#101f37;#112341;#13294e;#14305e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="43" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112340;#102039;#101f36;#101f37;#11213c;#122544;#132a4f;#14305d;#16366c;#183d7b;#19448a;#1b4996;#1c4ea1;#1d51a8;#1d52ab;#1d52aa;#1c50a5;#1b4c9d;#1a4792;#194184;#173b75;#153466;#142d57;#12284b;#112340" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="57" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173c78;#153364;#132a50;#11233f;#0f1c31;#0e1828;#0e1623;#0e1624;#0f192a;#101e35;#112443;#132c55;#163569;#183e7d;#1a4791;#1c4ea2;#1e55b0;#1f59b9;#1f5bbe;#1f5bbd;#1e58b7;#1d53ac;#1c4d9e;#1a458c;#173c78" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="71" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1d51a7;#1c50a5;#1c4d9f;#1b4996;#19448b;#183f7e;#163870;#153262;#132c55;#12274a;#112441;#11213c;#10203a;#11213c;#112442;#12284b;#142d56;#153263;#173971;#183f7f;#1a458c;#1b4a97;#1c4da0;#1c50a5;#1d51a7" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="85" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183d7c;#1a458d;#1b4c9c;#1d51a8;#1e55b0;#1e56b4;#1e56b3;#1d54ae;#1c50a5;#1b4a98;#194388;#173b77;#153465;#132c54;#122545;#102039;#0f1c31;#0f1b2d;#0f1b2e;#101d33;#11213c;#122749;#142e59;#16366a;#183d7c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="99" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11223d;#112442;#12274a;#132c54;#153261;#16386f;#183e7c;#194489;#1b4995;#1b4c9d;#1c4fa3;#1c50a5;#1c4fa4;#1c4d9f;#1b4a97;#1a458d;#183f80;#173972;#153365;#142d58;#12284c;#122544;#11223e;#11213c;#11223d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="113" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132c54;#112442;#101d33;#0e1828;#0e1623;#0e1622;#0e1827;#0f1c31;#11233f;#132a51;#153364;#173c79;#1a458d;#1c4d9f;#1d54ae;#1f59b9;#1f5bbe;#1f5bbf;#1f59ba;#1e55b0;#1c4ea2;#1a4790;#183e7d;#163568;#132c54" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="127" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4d9e;#1a4791;#184081;#173971;#153161;#132b51;#122544;#10203a;#101d33;#0f1c31;#101d33;#102039;#112443;#132a50;#153160;#163870;#184080;#1a4690;#1b4c9d;#1d51a7;#1d54ae;#1e55b0;#1d54ae;#1d51a8;#1c4d9e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="141" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea2;#1d54af;#1e58b7;#1f5abb;#1f59ba;#1e56b3;#1d51a8;#1b4b9a;#194388;#173a75;#153262;#132a4f;#11233f;#101d32;#0f192a;#0e1726;#0e1827;#0f1b2e;#102039;#122647;#142e59;#16376c;#183f7f;#1a4792;#1c4ea2" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="155" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142e58;#16366a;#183e7c;#1a458e;#1b4c9d;#1d52a9;#1e55b2;#1e57b6;#1e57b5;#1e55b0;#1c50a6;#1b4a99;#194389;#173b77;#153365;#132c53;#122544;#101f38;#0f1c2f;#0f1a2b;#0f1a2c;#0f1c31;#11213b;#122748;#142e58" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="169" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#101f38;#101d32;#0f1c30;#101d33;#10203a;#122544;#132b52;#153262;#173972;#194183;#1a4892;#1c4d9f;#1d52a9;#1d54af;#1e55b1;#1d54ae;#1d51a7;#1b4c9d;#1a468f;#183f7f;#16386f;#14305e;#13294f;#112442;#101f38" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="183" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173a73;#153160;#13294e;#11223e;#101d32;#0f1929;#0e1726;#0e1828;#0f1b2f;#10203a;#122749;#142f5b;#16376e;#184081;#1a4893;#1c4fa3;#1d54af;#1e58b8;#1f5abb;#1f59b9;#1e56b2;#1d51a7;#1b4a98;#194286;#173a73" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="197" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1d51a8;#1d51a8;#1c4fa3;#1b4c9b;#1a4791;#194184;#173b75;#153467;#142e59;#13294d;#112443;#11213c;#102039;#102039;#11223e;#122546;#132a50;#14305d;#16366c;#183d7a;#194388;#1a4894;#1c4d9e;#1c50a5;#1d51a8" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="211" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#184081;#1a4894;#1c4fa4;#1e55b1;#1f59b9;#1f5abd;#1f5abb;#1e57b4;#1d52a9;#1b4b9a;#194388;#173a74;#153160;#13294d;#11223d;#0f1c30;#0e1828;#0e1724;#0e1726;#0f1a2d;#101f38;#122647;#142e59;#16376d;#184081" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="225" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112340;#122647;#132a50;#142f5c;#163569;#173c77;#194185;#1a4791;#1b4b9a;#1c4ea1;#1c50a5;#1c50a5;#1c4ea1;#1b4b9a;#1a4791;#194285;#173c78;#16356a;#14305c;#132a50;#122647;#112340;#11213c;#11213c;#112340" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="239" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a50;#112340;#101d33;#0f192a;#0e1726;#0e1827;#0f1a2d;#101f38;#122646;#142d58;#16366b;#183f7e;#1a4791;#1c4ea1;#1d54ae;#1e58b7;#1f5abb;#1f59ba;#1e57b4;#1d52a9;#1b4b9b;#194489;#173b76;#153263;#132a50" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="253" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4995;#194389;#183d7b;#16376d;#14305e;#132b51;#122646;#11223e;#102039;#102038;#11213b;#112442;#12284c;#142e58;#153466;#173a74;#194183;#1a4690;#1b4b9b;#1c4fa3;#1d51a8;#1d51a9;#1c50a6;#1c4d9f;#1b4995" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="267" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4c9d;#1d52a9;#1e55b2;#1e57b6;#1e57b5;#1d54af;#1c50a6;#1b4a98;#194388;#173b77;#153365;#132c53;#122544;#101f38;#0f1c2f;#0f1a2b;#0f1a2c;#101d32;#11213b;#122749;#142e59;#16366a;#183e7c;#1a458e;#1b4c9d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="281" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5b;#16366b;#183e7c;#1a458c;#1b4b9a;#1c50a5;#1d53ad;#1e55b0;#1d54af;#1d52aa;#1c4ea1;#1b4995;#194286;#173b76;#153365;#132c55;#122647;#11213c;#101e34;#0f1c31;#101d32;#101f37;#112340;#12284c;#142f5b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="295" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11223d;#101f37;#101d34;#101e35;#10203a;#112443;#132a4f;#14305e;#16376d;#183e7d;#1a458c;#1b4b99;#1c4fa4;#1d52aa;#1d54ad;#1d53ac;#1d51a7;#1c4d9e;#1a4792;#194183;#173a74;#153364;#132c55;#122648;#11223d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="309" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173a74;#153262;#132a50;#112341;#101e35;#0f1a2c;#0f1929;#0f192a;#0f1c31;#11213b;#122749;#142f5a;#16376d;#183f7f;#1a4791;#1c4ea0;#1d53ac;#1e57b5;#1e58b8;#1e58b7;#1e55b0;#1c50a6;#1b4a98;#194287;#173a74" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="323" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c50a4;#1c50a5;#1c4fa2;#1b4c9c;#1a4893;#194387;#183d7a;#16376c;#15315f;#132b53;#122748;#112341;#11213d;#11213c;#11223f;#122545;#13294e;#142e5a;#153467;#173a75;#184082;#1a468e;#1b4a99;#1c4ea0;#1c50a4" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="337" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183f7e;#1a4791;#1c4ea2;#1d54af;#1e58b8;#1f5abc;#1f5abb;#1e57b5;#1d52ab;#1b4c9c;#19448a;#173b77;#153263;#132a50;#11233f;#101d32;#0f1929;#0e1725;#0e1726;#0f1a2c;#101f36;#122545;#142d57;#16366a;#183f7e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="351" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112442;#122648;#132a50;#142f5b;#153467;#173a73;#183f80;#1a458c;#1b4995;#1b4c9c;#1c4ea1;#1c4ea2;#1c4d9f;#1b4b99;#1a4791;#194286;#183d7a;#16376e;#153261;#132c55;#12284c;#122545;#112340;#11233f;#112442" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="365" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132b53;#112442;#101e34;#0f192a;#0e1725;#0e1725;#0f192a;#101e34;#112442;#132c54;#153467;#183d7b;#1a468e;#1c4d9f;#1d53ad;#1e58b7;#1f5abc;#1f5abc;#1e58b7;#1d53ad;#1c4d9f;#1a458d;#183d7a;#153466;#132b53" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="379" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4995;#194389;#183e7c;#16386e;#153161;#132c54;#122749;#112441;#11213c;#11213b;#11223e;#122544;#12284c;#142e58;#153365;#173973;#184080;#1a458d;#1b4a98;#1c4da0;#1c50a5;#1c50a6;#1c4fa3;#1b4c9d;#1b4995" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="393" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4b9a;#1d51a7;#1e55b1;#1e58b6;#1e58b7;#1e56b3;#1d52aa;#1b4c9d;#1a458e;#183e7c;#163569;#142d57;#122647;#10203a;#0f1c30;#0f192b;#0f192a;#0f1b2e;#101f37;#122544;#132c53;#153365;#173c78;#19448a;#1b4b9a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="407" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5b;#16366b;#183d7b;#19448b;#1b4a99;#1c4fa4;#1d53ab;#1d54af;#1d54ae;#1d52a9;#1c4ea1;#1b4995;#194286;#173b76;#153466;#142d56;#122748;#11223d;#101e36;#101d32;#101d33;#101f38;#112340;#12284c;#142f5b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="421" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112340;#101f38;#101e34;#101d34;#101f37;#11233f;#12284a;#142e58;#163568;#173c78;#194387;#1b4995;#1c4ea1;#1d52a9;#1d53ad;#1d54ad;#1d52aa;#1c4ea2;#1b4997;#194389;#173c79;#163569;#142e5a;#12284c;#112340" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="435" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b75;#153262;#132a50;#112341;#101e34;#0f1a2c;#0e1828;#0f1929;#0f1c30;#10203a;#122748;#142e59;#16366c;#183f7f;#1a4791;#1c4ea0;#1d53ad;#1e57b5;#1f59b9;#1e58b8;#1e55b1;#1d51a7;#1b4a99;#194388;#173b75" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="449" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4ea2;#1c4fa4;#1c4fa2;#1b4c9d;#1b4995;#19448b;#183f7f;#173972;#153364;#142e58;#13294d;#122545;#11233f;#11223d;#11223f;#122544;#12284c;#142d56;#153262;#16386f;#183e7d;#194389;#1a4894;#1b4c9c;#1c4ea2" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="463" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7d;#1a4790;#1c4ea2;#1e55b0;#1f59ba;#1f5bbf;#1f5bbe;#1f59b9;#1d54ae;#1c4d9f;#1a458d;#173c79;#153364;#132a51;#11233f;#0f1c31;#0e1827;#0e1622;#0e1623;#0e1828;#101d33;#112442;#132c54;#163568;#183e7d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="477" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122545;#122749;#132a50;#142e5a;#153365;#173971;#183e7c;#194387;#1a4791;#1b4a98;#1b4c9c;#1c4d9e;#1b4c9c;#1b4a98;#1a4791;#194387;#183e7c;#163870;#153365;#142e5a;#132a50;#122749;#122545;#112443;#122545" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="491" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132c55;#112443;#101d34;#0e1828;#0e1622;#0e1521;#0e1726;#0f1b2f;#11223d;#13294f;#153263;#173c77;#1a458c;#1c4d9e;#1d54ad;#1f59b9;#1f5bbf;#1f5cc0;#1f5abb;#1e56b2;#1c4fa4;#1a4892;#183f7e;#16356a;#132c55" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="505" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4792;#194387;#183d7b;#16376e;#153261;#132c55;#12284b;#122544;#11233f;#11223e;#112341;#122646;#132a4f;#142e5a;#153466;#173a73;#183f80;#1a458c;#1b4996;#1b4c9d;#1c4ea2;#1c4fa3;#1c4ea0;#1b4b9b;#1a4792" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="519" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4997;#1c50a6;#1e55b1;#1e58b8;#1f59bb;#1e58b8;#1e55b0;#1c4fa4;#1a4894;#184082;#16386f;#142f5c;#12284a;#11213b;#0f1c30;#0f1929;#0e1826;#0f1929;#0f1c31;#11223d;#13294d;#15315f;#173972;#194285;#1b4997" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="533" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305d;#16376d;#183e7d;#1a458d;#1b4b9a;#1c50a5;#1d53ac;#1d54af;#1d54ae;#1d51a8;#1c4d9f;#1a4893;#194184;#173a74;#153364;#132c54;#122647;#11213c;#101e35;#101d32;#101d33;#102039;#112442;#13294e;#14305d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="547" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122545;#11213b;#101e34;#101d32;#101e34;#10203a;#122544;#132a51;#153160;#163870;#183f80;#1a468f;#1b4c9c;#1c50a6;#1d53ad;#1d54af;#1d53ad;#1d51a7;#1b4c9d;#1a4790;#184081;#173971;#153261;#132b52;#122545" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="561" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173a74;#153160;#13294d;#11223d;#0f1c30;#0e1828;#0e1724;#0e1726;#0f1a2d;#102038;#122648;#142e5a;#16376d;#184081;#1a4894;#1c4fa4;#1e55b1;#1f59b9;#1f5abd;#1f5abb;#1e57b4;#1d51a9;#1b4b99;#194387;#173a74" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="575" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4b9b;#1c4d9f;#1c4d9f;#1b4c9d;#1b4a97;#1a468f;#194185;#173c79;#16376d;#153161;#142d56;#13294d;#122646;#112442;#112442;#122544;#12274a;#132b52;#14305c;#163568;#173a74;#184080;#19448b;#1a4894;#1b4b9b" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="589" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7d;#1a4892;#1c50a6;#1e57b6;#1f5cc1;#205fc7;#205fc7;#1f5cc1;#1e57b5;#1c50a5;#1a4791;#183d7b;#153364;#13294f;#11213b;#0f1a2b;#0e1520;#0d121a;#0d121a;#0e1520;#0f1a2c;#11213c;#132a50;#153466;#183e7d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="603" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a4f;#132b52;#142e58;#15315f;#153467;#163870;#183d7a;#184082;#194389;#1a468f;#1a4792;#1a4893;#1a4792;#1a468f;#194389;#184082;#183d7a;#173971;#153467;#15315f;#142e58;#132b52;#132a4f;#13294e;#132a4f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="617" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#14305d;#122646;#101d32;#0e1623;#0d1118;#0d1117;#0d1117;#0d141e;#0f1a2c;#11223e;#132c54;#16366c;#194184;#1b4b9b;#1d54af;#1f5bbe;#2060c9;#2161cb;#2161cb;#205dc3;#1e57b5;#1c4fa3;#1a458d;#173b75;#14305d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="631" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a458c;#183e7c;#16366b;#142f5a;#12284b;#11223e;#101e35;#0f1c30;#0f1b2f;#101d33;#11213b;#122646;#132c55;#153365;#173b76;#194287;#1b4996;#1c4fa3;#1d53ac;#1e55b1;#1e56b2;#1d54ae;#1c50a6;#1b4b9b;#1a458c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="645" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a468e;#1b4996;#1b4c9c;#1c4d9e;#1c4d9e;#1b4b9a;#1a4894;#19448b;#183f80;#173a74;#163568;#14305d;#132b53;#12284b;#122545;#112443;#112443;#122647;#13294d;#142d56;#153261;#16376d;#173c79;#194184;#1a468e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="659" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5a;#163568;#173b77;#194285;#1a4792;#1b4c9c;#1c4fa4;#1d51a8;#1d51a8;#1c50a4;#1b4c9d;#1a4893;#194287;#173c79;#16366a;#142f5c;#132a4f;#122545;#11223d;#102039;#102039;#11213d;#122544;#13294e;#142f5a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="673" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122646;#112442;#112441;#112443;#122749;#132a51;#142f5b;#153467;#173a73;#183f7f;#19448a;#1a4894;#1b4b9b;#1c4d9f;#1c4da0;#1c4d9e;#1b4a98;#1a4790;#194286;#183d7a;#16376e;#153262;#142d57;#13294d;#122646" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="687" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b77;#16366b;#15315f;#132c55;#12284c;#122646;#112443;#112443;#122646;#12284c;#132c55;#15315f;#16366a;#173b76;#184082;#1a458c;#1b4995;#1b4b9b;#1c4d9e;#1c4d9e;#1b4b9b;#1b4995;#1a458c;#184082;#173b77" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="701" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4fa4;#1d53ac;#1d54af;#1d54ae;#1d52aa;#1c4ea1;#1b4995;#194286;#173b76;#153466;#142d56;#122748;#11223d;#101e35;#101d32;#101d33;#101f37;#112340;#12284c;#142f5b;#16366b;#183d7b;#19448b;#1b4a99;#1c4fa4" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="715" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4893;#1d52aa;#1f5abd;#2060ca;#2161cb;#2161cb;#2161cb;#1f5cc0;#1d54af;#1b4a99;#184080;#153467;#13294e;#101f37;#0e1724;#0d1117;#0d1117;#0d1117;#0d1117;#0e1521;#101d32;#122748;#153161;#183d7a;#1a4893" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="729" y="85" width="11" height="11" rx="2" fill="#161b22" stroke="#58a6ff" stroke-width="0.6" stroke-opacity="0.5">
+    <animate attributeName="fill" values="#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28;#0fff28" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="743" y="85" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#153467;#153363;#153160;#14305e;#14305e;#15315f;#153160;#153363;#153467;#16366c;#173971;#173b75;#183d7a;#183e7e;#184081;#194183;#194183;#184082;#184081;#183e7e;#183d7a;#173b75;#163870;#16366c;#153467" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="15" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4b9a;#1d51a7;#1e55b0;#1e57b4;#1e56b4;#1d54af;#1c50a6;#1b4b9a;#19448a;#173c79;#153467;#142d56;#122647;#10203a;#0f1c31;#0f1a2d;#0f1b2d;#101d32;#11213b;#122647;#142d57;#163568;#183d7a;#19448b;#1b4b9a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="29" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142e59;#16366b;#183e7d;#1a468f;#1c4d9e;#1d52aa;#1e56b3;#1e58b6;#1e57b6;#1e55b0;#1c50a6;#1b4a98;#194388;#173b76;#153364;#132b52;#112443;#101f37;#0f1b2e;#0f192b;#0f1a2b;#0f1c31;#11213b;#122749;#142e59" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="43" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11233f;#10203a;#102039;#11213b;#112341;#12284a;#142d56;#153364;#173972;#184081;#1a468e;#1b4b99;#1c4ea2;#1d51a7;#1d51a8;#1c50a6;#1c4ea0;#1b4997;#19448b;#183e7d;#16386f;#153160;#132b53;#122648;#11233f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="57" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7c;#16356a;#142d57;#122647;#102039;#0f1b2f;#0f192a;#0f1929;#0f1b2d;#101f36;#112443;#132b53;#153365;#173c77;#19448a;#1b4b9a;#1d51a8;#1e56b2;#1e58b7;#1e58b8;#1e56b4;#1d52ab;#1c4d9e;#1a468e;#183e7c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="71" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1d54ae;#1d53ad;#1d51a7;#1c4d9e;#1a4892;#194184;#173a74;#153364;#132c55;#122648;#11223d;#101f36;#101d33;#101e34;#10203a;#112443;#13294f;#14305d;#16376d;#183e7d;#1a458c;#1b4b99;#1c4fa4;#1d52ab;#1d54ae" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="85" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#194183;#1b4995;#1c4fa4;#1d54af;#1e58b7;#1f59b9;#1e58b7;#1e55b0;#1c4fa4;#1b4995;#194184;#173971;#14305e;#12284c;#11223d;#101d32;#0f192a;#0e1828;#0f192a;#0f1c31;#11223d;#12284c;#14305d;#163870;#194183" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="99" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112443;#122749;#132b52;#14305d;#163569;#173b75;#184081;#1a458c;#1b4996;#1b4c9c;#1c4ea0;#1c4ea0;#1c4d9e;#1b4a98;#1a468f;#194184;#173c78;#16366c;#153160;#132c55;#12284b;#122545;#112341;#112341;#112443" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="113" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142e58;#122648;#10203a;#0f1c30;#0f192b;#0f192a;#0f1b2e;#101f36;#112443;#132b53;#153364;#173b77;#194389;#1b4b99;#1d51a7;#1e55b1;#1e58b6;#1e58b7;#1e56b3;#1d52ab;#1c4d9e;#1a468e;#183e7d;#16366a;#142e58" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="127" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4c9d;#1a4792;#194184;#173b75;#153466;#142d57;#12284a;#112340;#102039;#101e36;#101f37;#11213b;#122544;#132a4f;#14305d;#16366c;#183d7b;#19448a;#1b4997;#1c4ea1;#1d51a8;#1d53ab;#1d52aa;#1c50a6;#1b4c9d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="141" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4c9d;#1d52ab;#1e57b4;#1f59b9;#1f59b9;#1e57b4;#1d52ab;#1b4c9d;#1a458d;#183d7a;#153467;#132c55;#122544;#101f36;#0f1a2d;#0e1828;#0e1828;#0f1a2d;#101f36;#122544;#132c54;#153467;#183d7a;#1a458c;#1b4c9d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="155" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132c54;#153365;#173b77;#194389;#1b4a99;#1c50a6;#1e55b0;#1e57b5;#1e57b6;#1e55b2;#1d52a9;#1b4c9d;#1a458d;#183e7c;#16366a;#142e58;#122748;#11213b;#0f1c31;#0f1a2c;#0f1a2b;#0f1c2f;#101f38;#122544;#132c54" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="169" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#101f37;#0f1c31;#0f1b2e;#0f1c30;#101f36;#112341;#13294e;#14305e;#16386f;#184081;#1a4791;#1c4d9f;#1d52aa;#1e55b0;#1e56b3;#1e55b1;#1d52ab;#1c4ea0;#1a4893;#194183;#173972;#153160;#132a50;#112442;#101f37" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="183" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b77;#153263;#132a50;#11233f;#101d32;#0f1929;#0e1725;#0e1726;#0f1a2c;#101f36;#122545;#142d57;#16366a;#183f7e;#1a4791;#1c4ea2;#1d54af;#1e58b8;#1f5abc;#1f5abb;#1e57b5;#1d52ab;#1b4c9c;#19448a;#173b77" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="197" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1d52ab;#1d52aa;#1c50a6;#1c4d9e;#1a4893;#194286;#173b77;#163568;#142e59;#12284c;#112341;#10203a;#101f36;#101f37;#11213b;#112443;#13294e;#142f5b;#16366a;#173c79;#194388;#1b4995;#1c4ea0;#1d51a7;#1d52ab" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="211" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183f80;#1a4893;#1c4fa4;#1e55b2;#1f59bb;#1f5bbf;#1f5bbe;#1e58b7;#1d53ac;#1b4c9c;#19448a;#173b76;#153261;#13294e;#11223d;#0f1c2f;#0e1826;#0e1622;#0e1623;#0f192a;#101e35;#122545;#142d57;#16366b;#183f80" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="225" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11223d;#122544;#13294e;#142f5a;#163568;#173b77;#194285;#1a4792;#1b4c9c;#1c4fa3;#1d51a7;#1d51a8;#1c4fa4;#1b4c9d;#1a4893;#194287;#173c79;#16366a;#142f5c;#132a4f;#122545;#11223e;#10203a;#102039;#11223d" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="239" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a50;#11233f;#101d32;#0e1828;#0e1724;#0e1725;#0f1a2b;#101f36;#122545;#142d57;#16366a;#183f7e;#1a4791;#1c4ea2;#1d54af;#1f59b9;#1f5abd;#1f5abc;#1e57b6;#1d52ab;#1b4c9c;#19448a;#173b77;#153263;#132a50" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="253" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4a98;#19448b;#183e7d;#16376d;#14305e;#132a50;#122545;#11213c;#101f37;#101e36;#102039;#11233f;#122749;#142d56;#153364;#173a74;#194183;#1a4791;#1b4c9c;#1c50a5;#1d52aa;#1d53ab;#1d51a8;#1c4ea2;#1b4a98" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="267" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4d9e;#1d52aa;#1e56b3;#1e58b7;#1e57b6;#1e55b0;#1c50a6;#1b4a99;#194389;#173b77;#153364;#132b53;#112443;#101f37;#0f1b2e;#0f192a;#0f1a2b;#0f1c31;#11213b;#122748;#142e58;#16366a;#183e7d;#1a468e;#1c4d9e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="281" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142e5a;#16366a;#183d7b;#1a458c;#1b4b9a;#1c50a6;#1d54ae;#1e56b2;#1e55b1;#1d53ac;#1c4fa3;#1b4997;#194387;#173b77;#153466;#132c55;#122647;#11213b;#101d33;#0f1b2f;#0f1c30;#101e35;#11223e;#12284a;#142e5a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="295" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11213c;#101e35;#101d33;#101e34;#10203a;#112443;#132a4f;#14305e;#16376e;#183f7e;#1a458d;#1b4b9b;#1c50a5;#1d53ac;#1d54ae;#1d53ad;#1d51a7;#1c4d9e;#1a4792;#194183;#173a73;#153263;#132c54;#122646;#11213c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="309" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b75;#153262;#132a50;#112341;#101e34;#0f1a2c;#0e1828;#0f1929;#0f1b2f;#10203a;#122748;#142e59;#16366c;#183f7f;#1a4791;#1c4ea0;#1d53ad;#1e57b5;#1f59b9;#1e58b8;#1e56b2;#1d51a7;#1b4a99;#194388;#173b75" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="323" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c50a6;#1c50a6;#1c4fa3;#1b4c9c;#1a4893;#194287;#173c79;#16366b;#14305d;#132a51;#122647;#11233f;#11213b;#11213b;#11223e;#122545;#13294e;#142f5a;#163568;#173b76;#194184;#1a4790;#1b4b9a;#1c4ea2;#1c50a6" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="337" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7e;#1a4791;#1c4ea2;#1d54af;#1f59b9;#1f5abd;#1f5abc;#1e57b6;#1d53ab;#1b4c9d;#19448b;#173b77;#153363;#132a50;#11233f;#101d32;#0e1828;#0e1724;#0e1725;#0f1a2b;#101e36;#122544;#142d56;#16366a;#183e7e" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="351" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112340;#122646;#132a4f;#142f5a;#153467;#173a74;#184081;#1a458d;#1b4a97;#1c4d9e;#1c4fa2;#1c4fa3;#1c4ea1;#1b4b9b;#1a4792;#194287;#183d7a;#16376d;#153160;#132c54;#12274a;#112443;#11223f;#11223e;#112340" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="365" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132b53;#112442;#101e34;#0f192a;#0e1725;#0e1725;#0f192a;#101e34;#112443;#132c54;#153467;#183d7b;#1a468e;#1c4d9f;#1d53ad;#1e58b7;#1f5abc;#1f5abc;#1e58b7;#1d53ad;#1c4d9e;#1a458d;#183d7a;#153466;#132b53" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="379" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4996;#19448a;#183e7d;#16386e;#153160;#132b53;#122748;#112340;#11213b;#102039;#11213c;#112442;#12284b;#142d57;#153364;#173973;#184081;#1a468e;#1b4a99;#1c4ea1;#1c50a6;#1d51a8;#1c50a5;#1c4d9f;#1b4996" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="393" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4b9a;#1d51a8;#1e55b1;#1e57b6;#1e58b7;#1e56b2;#1d52a9;#1b4c9d;#1a458d;#183d7b;#163569;#142d57;#122647;#102039;#0f1c30;#0f1a2b;#0f192a;#0f1b2f;#101f38;#122544;#132c54;#153466;#173c78;#19448a;#1b4b9a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="407" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142e5a;#16366a;#183d7b;#19448b;#1b4a99;#1c50a4;#1d53ac;#1e55b0;#1e55b0;#1d52ab;#1c4fa2;#1b4996;#194387;#173b77;#153466;#142d56;#122748;#11213d;#101e35;#0f1c31;#0f1c31;#101f36;#11223f;#12284b;#142e5a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="421" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112340;#101f38;#101d34;#101e34;#101f38;#112340;#12284c;#142e59;#163569;#173c79;#194388;#1b4996;#1c4ea1;#1d52a9;#1d54ad;#1d53ad;#1d52a9;#1c4ea1;#1b4995;#194388;#173c78;#163568;#142e59;#12284b;#112340" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="435" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b76;#153363;#132b51;#112441;#101e35;#0f1a2c;#0e1828;#0f1929;#0f1b2f;#102039;#122647;#142e58;#16366b;#183e7e;#1a4690;#1c4da0;#1d53ac;#1e57b5;#1f59b9;#1e58b8;#1e56b2;#1d51a8;#1b4b9a;#194389;#173b76" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="449" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4fa3;#1c50a4;#1c4fa2;#1b4c9d;#1b4995;#19448a;#183e7d;#163870;#153262;#142d56;#12284b;#112443;#11223e;#11213d;#11223f;#122544;#12284c;#142d57;#153364;#173971;#183f7f;#19448b;#1b4996;#1c4d9e;#1c4fa3" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="463" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7c;#1a468f;#1c4ea1;#1d54af;#1f59b9;#1f5bbe;#1f5bbe;#1e58b8;#1d54ae;#1c4d9f;#1a458d;#183d7a;#153365;#132b52;#112340;#101d32;#0e1828;#0e1623;#0e1623;#0f1929;#101d33;#112442;#132c54;#153467;#183e7c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="477" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112443;#122648;#132a50;#142e5a;#153365;#173972;#183e7e;#194389;#1a4893;#1b4b9a;#1c4d9f;#1c4ea0;#1c4d9e;#1b4b99;#1a4791;#194387;#183e7c;#16386f;#153363;#142e58;#13294e;#122647;#112442;#112341;#112443" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="491" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d56;#122544;#101e35;#0f192a;#0e1624;#0e1623;#0e1827;#0f1c30;#11223e;#132a4f;#153263;#173c77;#19448b;#1b4c9d;#1d53ac;#1e58b7;#1f5bbd;#1f5bbe;#1f59ba;#1e55b1;#1c4fa3;#1a4792;#183f7e;#16356a;#142d56" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="505" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1a4894;#194489;#183e7c;#16386f;#153261;#132c55;#12274a;#112442;#11223d;#11213c;#11223e;#122544;#13294d;#142d58;#153365;#173972;#183f80;#1a458c;#1b4a97;#1c4d9f;#1c4fa4;#1c50a5;#1c4fa3;#1b4c9d;#1a4894" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="519" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1b4a97;#1c50a6;#1e55b1;#1e58b7;#1f59b9;#1e57b6;#1d54ae;#1c4ea2;#1a4892;#184081;#16376e;#142f5b;#12274a;#11213b;#0f1c30;#0f192a;#0e1828;#0f1a2b;#101d33;#11233f;#13294f;#153160;#173a73;#194286;#1b4a97" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="533" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142f5a;#16366b;#183d7b;#19448b;#1b4a99;#1c4fa4;#1d53ac;#1e55b0;#1d54af;#1d52aa;#1c4ea1;#1b4995;#194287;#173b76;#153466;#142d56;#122748;#11223d;#101e35;#0f1c31;#101d32;#101f37;#112340;#12284c;#142f5a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="547" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#112443;#10203a;#101e34;#101d33;#101e35;#11213c;#122647;#132c54;#153263;#173a73;#194183;#1a4792;#1c4d9e;#1d51a7;#1d53ad;#1d54ae;#1d53ac;#1c50a5;#1b4b9a;#1a458d;#183f7e;#16376e;#14305e;#132a4f;#112443" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="561" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#173b76;#153263;#132a51;#112340;#101d33;#0f192b;#0e1827;#0e1828;#0f1b2e;#101f38;#122646;#142e58;#16366b;#183f7e;#1a4790;#1c4ea1;#1d54ae;#1e58b6;#1f59ba;#1f59b9;#1e56b3;#1d52a9;#1b4b9b;#194389;#173b76" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="575" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#1c4d9f;#1c4fa2;#1c4fa2;#1c4d9e;#1b4a97;#1a468e;#184082;#173b76;#163569;#142f5c;#132a51;#122648;#112442;#11223f;#11223f;#112443;#12274a;#132b53;#15315f;#16366b;#173c78;#194285;#1a4790;#1b4b99;#1c4d9f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="589" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#183e7c;#1a4791;#1c4fa3;#1e56b2;#1f5abc;#205dc2;#1f5cc1;#1f5abc;#1e55b1;#1c4ea1;#1a468f;#183d7a;#153365;#132a50;#11223e;#0f1b2f;#0e1725;#0d141f;#0e1520;#0e1725;#0f1c30;#112340;#132b52;#153467;#183e7c" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="603" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#122647;#12274a;#132a50;#142d58;#153261;#16366c;#173b77;#184082;#19448b;#1a4892;#1b4a98;#1b4b9a;#1b4b9a;#1b4a97;#1a4791;#194489;#183f80;#173b75;#16366a;#15315f;#142d56;#13294f;#122749;#122647;#122647" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="617" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a50;#11213c;#0f1a2b;#0d141f;#0d1119;#0d1118;#0d141e;#0f1929;#102039;#13294d;#153363;#183d7b;#1a4791;#1c50a5;#1e57b6;#205dc2;#2060c8;#2060c9;#205dc3;#1e58b8;#1d51a8;#1a4894;#183e7e;#153466;#132a50" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="631" y="99" width="11" height="11" rx="2" fill="#161b22" stroke="#58a6ff" stroke-width="0.6" stroke-opacity="0.5">
+    <animate attributeName="fill" values="#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828;#0f7828" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="645" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#194389;#1a4690;#1b4995;#1b4a98;#1b4a98;#1b4995;#1a4690;#194388;#183f7f;#173b75;#16366b;#153261;#142e58;#132b51;#12284c;#122749;#122749;#12284c;#132b51;#142e59;#153262;#16366c;#173b76;#183f80;#194389" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="659" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#142d57;#153261;#16376d;#173c78;#194183;#1a458d;#1b4995;#1b4b9a;#1b4c9d;#1b4c9c;#1b4a99;#1a4892;#19448a;#183f80;#173a74;#163569;#14305e;#132c54;#12284c;#122647;#122544;#122545;#122748;#13294f;#142d57" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="673" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11233f;#102039;#101e36;#101f37;#11213c;#122544;#132a50;#14305e;#16376d;#183e7c;#19448b;#1b4a97;#1c4ea2;#1d51a8;#1d53ab;#1d52aa;#1c50a5;#1b4c9d;#1a4791;#194183;#173a74;#153365;#142d56;#12274a;#11233f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="687" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#163569;#142f5c;#132a50;#122647;#112340;#11223d;#11223d;#112341;#122648;#132b52;#14305d;#16366a;#173c78;#194285;#1a4791;#1b4b9a;#1c4ea1;#1c4fa4;#1c4fa4;#1c4ea0;#1b4b99;#1a468f;#194184;#173b77;#163569" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="701" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#19448a;#1a4791;#1b4996;#1b4a98;#1b4a98;#1b4995;#1a468f;#194387;#183f7e;#173a74;#16356a;#153160;#142d57;#132a50;#12284b;#122749;#122749;#12284c;#132b52;#142e5a;#153263;#16376d;#173c77;#184081;#19448a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="715" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#16366a;#184082;#1b4a98;#1d53ac;#1f5abc;#205fc6;#2161cb;#2060ca;#205dc2;#1e57b5;#1c4fa3;#1a468e;#173b77;#15315f;#122749;#101e35;#0e1725;#0d121b;#0d1117;#0d1117;#0d141f;#0f1a2c;#11223e;#132b53;#16366a" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="729" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#11223f;#12284a;#142e59;#163569;#173c79;#194489;#1b4a98;#1c4fa3;#1d53ab;#1d54af;#1d54af;#1d52ab;#1c4fa2;#1b4997;#194388;#173c78;#163568;#142d58;#122749;#11223e;#101e36;#101d32;#101d32;#101f36;#11223f" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+  <rect x="743" y="99" width="11" height="11" rx="2" fill="#161b22">
+    <animate attributeName="fill" values="#132a51;#12274a;#122646;#122545;#122647;#12284c;#132b53;#14305c;#153467;#173972;#183e7d;#194388;#1a4790;#1b4a97;#1b4b9b;#1b4c9c;#1b4b9a;#1b4995;#1a468e;#194185;#183d7a;#16386f;#153364;#142e59;#132a51" dur="2.2s" repeatCount="indefinite" />
+  </rect>
+</svg>
